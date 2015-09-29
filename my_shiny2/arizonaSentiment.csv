@@ -1,0 +1,890 @@
+"","business_id","name","longitude","latitude","city","review_count","averageSentimentScore","averageRating"
+"1","SiwN7f0N4bs4ZtPc4yPgiA","Palazzo",-112.074,33.4561,"Phoenix",17,1.25,2.75
+"2","45puCRQ6Vh_IIAy7kkfFDQ","Majerle's Sports Grill",-112.071,33.4485,"Phoenix",170,3.72602739726027,3.21917808219178
+"3","j8nyAaN_w5t6wYv-ni23sg","Coach & Willies",-112.07,33.4439,"Phoenix",77,2.85294117647059,3.05882352941176
+"4","5XIvwfbIa-vuFEkkeCQ6kQ","Jackson's On 3rd",-112.07,33.445,"Phoenix",10,0,2.25
+"5","qsWxbgQwuomXvMseg23DGg","Hooters",-112.069,33.4526,"Phoenix",83,2.37931034482759,2.6551724137931
+"6","wki-Qlp3OWgH0XtZ-Jz_WQ","Duck & Decanter",-112.073,33.4484,"Phoenix",43,3.83333333333333,4.11111111111111
+"7","muCl5p-9ut1sY0aKeUeRhw","Cheuvront",-112.075,33.4632,"Phoenix",186,6.48780487804878,3.60975609756098
+"8","oCA2OZcd_Jo_ggVmUx3WVw","Alice Cooper'stown",-112.072,33.4448,"Phoenix",335,4.11764705882353,3.44117647058824
+"9","JR95uaM82xBUIZ-kQ785iA","Bar Bianco",-112.066,33.4494,"Phoenix",57,5.6,4.4
+"10","c6sTwXAwIAgf2YQtA4ZWHg","Cash Inn Country",-112.036,33.4658,"Phoenix",23,5.1,4.3
+"11","0VpsHbGLHDVKIKAi0ZliyQ","Karamba Nightclub",-112.045,33.4659,"Phoenix",14,0.5,3
+"12","JwjDSrMrKmHUXYqoIvTgUA","Royale Lounge",-112.048,33.4732,"Phoenix",17,2.71428571428571,4.85714285714286
+"13","6gVX9y8rhF5WosQDb6yQXw","Baja Red's Cantina",-111.971,33.4664,"Phoenix",5,3.5,4
+"14","hzUOqxpcnYYBgLlrgvjQYQ","Applebee's",-111.986,33.4761,"Phoenix",58,1.79166666666667,2.41666666666667
+"15","3xEB9FyFXolq1b_Qn_BFtg","George & Dragon Restaurant",-112.074,33.4977,"Phoenix",248,4.01923076923077,3.74038461538462
+"16","cjUmPLRT43wN9Z87A9BOpg","Applebee's",-112.073,33.5096,"Phoenix",53,3.28571428571429,2.95238095238095
+"17","VC0VbRhQqvXpolK3pFuZPw","HB Hanratty's",-112.066,33.5092,"Phoenix",48,2.73684210526316,3.68421052631579
+"18","3UMcsN9IjoeV8JZvC4apag","SunUp Brewing Co",-112.069,33.5094,"Phoenix",225,6.28260869565217,3.70652173913043
+"19","hKB8OTUVIYLlDVWqFg8lnw","Cruisin' 7th",-112.065,33.4904,"Phoenix",12,0,2.6
+"20","3CSaqRNvYg7ZdN2zwxwzVw","Christo's Ristorante",-112.065,33.5298,"Phoenix",69,5.30769230769231,4.03846153846154
+"21","_GS1R0LTwr6h8rMWY_8U9Q","Pomeroy's",-112.065,33.5176,"Phoenix",31,2.71428571428571,3.07142857142857
+"22","lF1xl8uiYRSLCibhb31sew","Plazma",-112.049,33.4877,"Phoenix",11,2,3.75
+"23","eT-7JjVWhRnkeY2UwXwUMw","Friends",-112.059,33.4948,"Phoenix",10,4.75,4.5
+"24","lLI8ObL8aCVbkrrtAW0EHw","Apollo's Lounge",-112.065,33.5218,"Phoenix",31,2.75,3.58333333333333
+"25","7srDFwPPnzBaQoPW55Dc8Q","Roscoes On Seventh",-112.065,33.5027,"Phoenix",37,2.76470588235294,3.23529411764706
+"26","s8KRwTTrQDSKrS3hOjwYLw","CJ's Talley's Pub",-112.047,33.5245,"Phoenix",26,4.375,4.375
+"27","ntJAKLAq0cXzzdFgPoo0Iw","Harvey's Wineburger",-112.048,33.5079,"Phoenix",100,3.34883720930233,3.48837209302326
+"28","Pfb6VOIiroqDWOebfgWGPQ","Phoenix City Grille",-112.048,33.5227,"Phoenix",214,7.18181818181818,4.15909090909091
+"29","HIiVx2mseVWKtx8TKfWC_A","Duck & Decanter",-112.047,33.5092,"Phoenix",160,6.09230769230769,4.09230769230769
+"30","mgllPJA6NQXlJurFWAkqQg","Swizzle Inn",-112.047,33.5232,"Phoenix",75,3.17647058823529,4.02941176470588
+"31","wrmZqOF6YAE6Dw-QWAoMLQ","Angelo's Lounge",-112.048,33.4912,"Phoenix",3,-1,4
+"32","CqhsIZ7TzCfJTrZqg5-gqQ","Armadillo Grill",-112.041,33.5094,"Phoenix",171,4.71014492753623,3.91304347826087
+"33","peA3F-PnIfijYr8HuG-A-Q","MercBar",-112.028,33.5087,"Phoenix",135,4.33333333333333,3.78947368421053
+"34","C37jakxE5TX6ccAfjp2kJA","Nixon's",-112.027,33.5094,"Phoenix",5,2,4
+"35","YSQnaRE4Le6CaonZICFyVQ","Chili's Grill and Bar",-112.037,33.5093,"Phoenix",3,-1,2.5
+"36","CkQKNhlm8DOzxbXm_zb3bg","The Vintage Market",-112.029,33.5094,"Phoenix",3,4,3
+"37","rVUEZpHQfWI_3kt0lBwaxQ","Keegan's Grill",-112.015,33.51,"Phoenix",75,4.45714285714286,3.68571428571429
+"38","vvA3fbps4F9nGlAEYKk_sA","Avanti",-112.022,33.4805,"Phoenix",91,6.19444444444444,3.86111111111111
+"39","PuHucejs4LG3hSXnrwi9-g","Sophie's French Bistro",-112.031,33.4878,"Phoenix",43,6.88888888888889,3.61111111111111
+"40","HNXcjXTz_Ogsdpm0Kikhrg","Kat's",-112.032,33.4945,"Phoenix",8,6,4
+"41","yb17xHvhDJthJGS10uhFeQ","Ice House Tavern",-112,33.4804,"Phoenix",50,4.21052631578947,4.47368421052632
+"42","4f1b_-ceB9S3olRqGujh6w","Pat Murphy's",-112.012,33.4802,"Phoenix",8,2.25,4.25
+"43","SDwYQ6eSu1htn8vHWv128g","Postino Arcadia",-111.996,33.5021,"Phoenix",995,5.22857142857143,4.47619047619048
+"44","qz4ZOcv-840UjfCEYI4qZg","Jt's Bar & Grill",-111.977,33.4942,"Phoenix",70,3.76666666666667,4.03333333333333
+"45","qOE7oX1lIVUJUYvSwFy5Wg","The Great Escape Lounge",-111.99,33.495,"Phoenix",6,-1,4
+"46","4vZZjr6IZAk4riT0DB8MbQ","Dilly Dally Lounge",-112.002,33.4952,"Phoenix",28,0.928571428571429,3.5
+"47","fuoUja6AXOaOikyLaKOrNw","Ox Sports Bar",-112.012,33.482,"Phoenix",3,3,3
+"48","RIeWXLMHZQlYprYt1x2f1w","Ole Brass Rail",-112,33.4808,"Phoenix",40,2.78947368421053,3.36842105263158
+"49","rwT9wCyXNATA36yqcb4JSg","Big Daddy's Sports Lounge",-112.052,33.5831,"Phoenix",21,4.125,4.125
+"50","EUXT1vSFWaiD_BFmFK8rBg","Bobby D's Restaurant & Lounge",-112.052,33.5826,"Phoenix",13,2.8,3.6
+"51","Ypx_idDaRN0dOrE8LXvruw","4 Kings North",-112.057,33.5532,"Phoenix",4,-1,3
+"52","s5HAJmxNrWjQv_MNLHAMFQ","DO Drop In",-112.065,33.5725,"Phoenix",3,0,4
+"53","tC_T3DykMOlLV4p7iiRDWw","Dizzy's Sports Pub",-112.065,33.5402,"Phoenix",13,2.75,3.5
+"54","F-ykHfGY9lWr12OJ_Ofy7A","Gallagher's Sports Grill",-112.047,33.5466,"Phoenix",64,2.72,3
+"55","cTyBfWfmgL3vgRetyfmtyA","Sport Peppers Grill",-112.048,33.6415,"Phoenix",10,1.75,2
+"56","kvxrjOmicwb2njvXOJsZRw","Ammaccapane's Restaurant & Sports Bar",-112.067,33.6094,"Phoenix",21,1.55555555555556,3.22222222222222
+"57","jq_YnMQjcArdBWuwRospFg","Salute Ristorante Italiano",-112.066,33.6063,"Phoenix",55,3.44444444444444,3.33333333333333
+"58","vUmCtldBjn_AuHW4tg2LZQ","Larry's Place",-112.03,33.6679,"Phoenix",9,1.33333333333333,4.33333333333333
+"59","PkBkqQpAoeX3Ogo5HBthQg","Gallagher's",-112.064,33.6549,"Phoenix",35,4,3.6
+"60","f_leeIRar8uNCkk5sAmHRQ","Blooze",-112.013,33.5959,"Phoenix",35,3.21428571428571,4.21428571428571
+"61","gVgJIBQDXHtgIS7p7uDa6Q","Playa Bar and Grill",-112.012,33.5819,"Phoenix",8,2.5,3.5
+"62","JImJictLIE48_O1z-l2TGw","Wagon Yard",-112.025,33.64,"Phoenix",40,3,3.25
+"63","8lMQrVQU-5iG9UA4KvcnsQ","Loft Again",-112.03,33.6237,"Phoenix",13,2.66666666666667,3.5
+"64","vFJmFFfPVhHkC3bWOeZnNA","Casey Jones Grill",-112.02,33.6406,"Phoenix",66,4.25,3.89285714285714
+"65","hNVcBhJSD5HyLKMf_Z7TaA","Islands Restaurant",-111.978,33.6041,"Phoenix",44,4.21052631578947,3.31578947368421
+"66","-xLwGUmmyKgsTtFOOXzjeg","Brigett's Last Laugh",-112.031,33.643,"Phoenix",75,4,3.61111111111111
+"67","gOlJQuE3WYeMgXXDKYfdeg","Whiskey River Saloon",-112.013,33.6286,"Phoenix",32,2.8,3.86666666666667
+"68","VpQZo6KV8CqkIG_MRQ3jiA","Brennan's Pub & Grub",-112.006,33.6413,"Phoenix",28,2.41666666666667,2.91666666666667
+"69","1rOQVIlUlLBcf1EDj_n4Vw","Paradise Lounge",-111.982,33.5992,"Phoenix",31,3.33333333333333,3.77777777777778
+"70","E-_PkZNDuYxW1zs4XFlVmw","Greenway Village Cocktail Lounge",-112.015,33.6247,"Phoenix",19,2.71428571428571,4
+"71","0d5xLrgemC6jjCe-rofCiw","Eddie's Tavern",-112.013,33.5983,"Phoenix",9,3.25,3.25
+"72","W_ZcIQiI6waQu1UZxXnKbg","RJ's Sports Grill",-112.014,33.5973,"Phoenix",3,1.5,4.5
+"73","avvNnkpGpGIS-2CClsduXA","Rimrock Bar & Grille",-111.981,33.4251,"Phoenix",13,3.66666666666667,3
+"74","aiFo19hI2ulx47oMdjuqfw","Rodehouse Restaurant",-112.029,33.4253,"Phoenix",12,4.2,3.2
+"75","0Apb1P7RzbQEkeJDuywlPQ","George & Dragon II English Restaurant Pub",-111.978,33.4089,"Phoenix",11,0.333333333333333,1.66666666666667
+"76","SgGINtDKQgoXoAnQgrDKDg","Native Grill & Wings",-111.976,33.3217,"Phoenix",53,1.78260869565217,2.91304347826087
+"77","Our6bzte5W1wlIeOu9luug","My Wine Cellar",-111.978,33.3339,"Ahwatukee",111,7.35416666666667,4.29166666666667
+"78","Lk-FP6yxYRTcU52SaTx2EA","Cactus Jack's Bar & Grill",-111.982,33.3481,"Phoenix",27,2.77777777777778,3.33333333333333
+"79","QpxR9LNa506UN-Mt0TmQHw","Kirks Korner",-112.169,33.5823,"Glendale",4,3,5
+"80","6i1XD3mWfxUxkOf7pO1WXA","Hooters",-111.98,33.3055,"Phoenix",6,1,2
+"81","e0vubCKi8KD8zC2C6FdbuQ","Islands Restaurant",-111.975,33.6786,"Phoenix",60,4.73076923076923,3.92307692307692
+"82","g4y3_YqR4jmfCP9K0TzxrQ","Marcel's Bar & Grill",-112.016,33.6555,"Phoenix",16,2.4,3.6
+"83","QzXFdjIbFRGhzL83goPPLA","Elephant Bar Restaurant",-111.93,33.6555,"Phoenix",94,5,3.55263157894737
+"84","G7-NoraGlmzwO0sgs4fbmQ","Native Grill & Wings",-111.874,33.3636,"Mesa",39,2.13333333333333,2.8
+"85","PlCsVovsMET2LQuM6MuJ9w","O'kelly's",-111.879,33.3646,"Mesa",6,2,1
+"86","Cp5_NSJFNgylD5SUdmT8nQ","Hollywood Alley",-111.891,33.3786,"Mesa",58,3.41666666666667,3.875
+"87","hi5xfV28jsGBRWJWoBhDaw","Uncle Monkeys",-111.868,33.3933,"Mesa",14,-1,1.83333333333333
+"88","rjjEN8QTMvilB08ImFyMow","Jupe's",-111.891,33.3638,"Mesa",17,3.28571428571429,4.42857142857143
+"89","pas-y6Ki4gcxKfq2UhJGeQ","Famous Sam's Restaurant & Sports Bar",-111.773,33.3796,"Mesa",3,3,4
+"90","bNGR0iQTx8hXRmQv4hV5gw","Applebee's",-111.788,33.3795,"Mesa",21,1.11111111111111,2.88888888888889
+"91","zARGEdB0JyPCPR0f3FKGxQ","Chili's Grill & Bar",-111.805,33.3838,"Mesa",28,4,3
+"92","zBGfa6Vx4K59v8OR81gzJg","Native Grill & Wings",-111.788,33.3871,"Mesa",45,1.34782608695652,2.60869565217391
+"93","cPIi_5tWZw04DmtyUBcFlg","Hooters",-111.686,33.3855,"Mesa",12,2.83333333333333,2.33333333333333
+"94","cF0k2s8qq7c2qT1yBofuyg","Chili's",-111.684,33.3893,"Mesa",17,0.75,3.25
+"95","6uz6H-RNxbsVsvC4CRCo_A","Annabelle's Dining & Lounge",-111.684,33.4052,"Mesa",7,1.5,2.5
+"96","p8Lx4U-5uvp7TAhT08-wkg","Kay's Place",-111.856,33.4091,"Mesa",7,0.5,3.25
+"97","g8ewG8o0ubTUTAUDj7UZLQ","Pub'n Grub",-111.858,33.3637,"Mesa",17,1.14285714285714,3.71428571428571
+"98","0IojJ5ZpxhX_BFJdgUk0Nw","Septembers",-111.842,33.3938,"Mesa",10,3.25,3.75
+"99","44Up9Gbs-IKMnt7ULDWu8A","Cobb's Restaurant & Lounge",-111.557,33.4158,"Apache Junction",9,-1.25,2.25
+"100","7ozgY7HgsQMhpIgPyenTuQ","McMashers Sports Bar & Grill",-111.729,32.8785,"Casa Grande",25,3.63636363636364,4.09090909090909
+"101","j8BqRe8GsVLuWIKo0nhe-A","Silver Bullet Bar",-111.757,32.8871,"Casa Grande",3,2,2
+"102","SCMYAkofvwKmI6ChdZFxIg","Dell's Pizza",-111.757,32.8961,"Casa Grande",12,1,4
+"103","a9Wk44qJLWoJQT-_H8MB-w","Pesto's Pizza & Wine Bar",-111.876,33.3217,"Chandler",113,5.88372093023256,4.06976744186047
+"104","LySAATrzrru3ajc5sEBFOA","All Starz Sports Bar & Grill",-111.927,33.3049,"Chandler",4,4,2
+"105","xMK01ZbVUYLLoyqoeWAIVw","The Keg Steakhouse + Bar",-111.897,33.3057,"Chandler",159,5.28125,4.125
+"106","0ONypOKIhttBz9IJzBE8jg","Fleming's Prime Steakhouse & Wine Bar",-111.968,33.3185,"Chandler",135,5.81967213114754,3.65573770491803
+"107","7-4FxYXhNUS2lhpUb_q5-w","Teakwoods Tavern & Grill",-111.945,33.3198,"Chandler",121,4.3,3.88
+"108","kNINeBoMawMbQd5cEEjmHQ","River Bottom Grill - East Valley Destination",-111.379,33.0547,"Florence",21,2.55555555555556,3.55555555555556
+"109","HjM7hG2Fqrn6ZGmffs5aDQ","Champions Sports Saloon",-111.789,33.3541,"Gilbert",20,1.8,4.1
+"110","xuEsUDFIWIEnBXvj1EBXlw","Crabby Don's Bar & Grill",-111.749,33.3784,"Gilbert",30,1.27272727272727,3.36363636363636
+"111","1Y4SFeY8VWsuyAoTI7-GYg","Sidelines Tavern & Grill",-111.86,33.2624,"Chandler",39,3.6,3.15
+"112","9AbyBqGWHYZC73GlyAuTrQ","Fleming's Prime Steakhouse & Wine Bar",-111.926,33.5303,"Scottsdale",204,6.55172413793103,3.95402298850575
+"113","bx5Yc7-_E8wz3Lahpq88mQ","4th Floor Grille & Sports Bar",-111.926,33.5101,"Scottsdale",32,4.42857142857143,3.85714285714286
+"114","2BSF6wu1V3KfyFJf1DQ3DQ","Tallyho Cocktail Lounge",-111.898,33.5239,"Scottsdale",24,2,3.72727272727273
+"115","M0Pch3_-Gvj45RN1U4I35Q","Devil's Martini North",-111.926,33.5847,"Scottsdale",45,2.42105263157895,2.73684210526316
+"116","kYQxOeJRFYats6cxVFnILw","FOX Sports Grill",-111.925,33.6337,"Scottsdale",29,2.33333333333333,2.16666666666667
+"117","91IWybAX774ZiXzQYhRtcQ","Bacchus Wine Made Simple",-111.929,33.6229,"Scottsdale",8,7,4.75
+"118","iZR96moKSAWYROyL5-qeuQ","Chop and Wok Gourmet Chinese",-111.927,33.5824,"Scottsdale",58,4.1304347826087,3.47826086956522
+"119","_TWT58PWunYIyPgpz1fuog","Arena Sports Grill",-111.944,33.6399,"Scottsdale",46,4.8,3.5
+"120","d840tbYJSVn8Fu-n5XRJTw","Handlebar-J",-111.928,33.5831,"Scottsdale",58,4.73076923076923,3.73076923076923
+"121","v76uEBa0jkRl8AH28piX4w","Casino Arizona",-111.886,33.4543,"Scottsdale",97,2.375,2.95
+"122","uS2T2BMt7_EE7mhM3m3I7w","Goldie's Neighborhood Sports Cafe",-111.862,33.5748,"Scottsdale",86,3.20588235294118,3.52941176470588
+"123","x6koVXXoyrR54_EsqOv75w","Zipps Sports Grill",-111.9,33.5547,"Scottsdale",94,4.18918918918919,3.64864864864865
+"124","QVR7dsvBeg8xFt9B-vd1BA","K O'Donnell's Sports Bar & Grill",-111.898,33.6205,"Scottsdale",162,5.54054054054054,3.86486486486486
+"125","LzNJLEIo4gh-X_rmDkNkNg","Four Peaks Grill & Tap",-111.893,33.6284,"Scottsdale",349,5.11688311688312,4.04545454545455
+"126","n4mfUCDXHsg0GH50HzJpug","Rock Bottom Restaurant & Brewery",-111.895,33.5829,"Scottsdale",24,5.14285714285714,4.14285714285714
+"127","0LCqaCnEGesFEhpa6qNauQ","Grapeables Fine Wines",-111.715,33.6015,"Fountain Hills",14,5.33333333333333,4.83333333333333
+"128","LeUNBYgQL3cERb4nsd7rVw","Applebee's",-111.926,33.4074,"Tempe",44,2.25,2.95
+"129","DQlVVaGbMxf3Ed6rp8A3kA","Final Round Sports Bar & Grill",-111.94,33.3793,"Tempe",22,3.75,3.875
+"130","BJfjd8oEMW_zq8KTkixyig","Doc & Eddy's",-111.927,33.3792,"Tempe",79,4.12121212121212,3.51515151515152
+"131","h-9z4dgdEghdPLeDMLpDYA","Tailgate Sports Bar & Grill",-111.954,33.4079,"Tempe",24,3.2,3.4
+"132","U7jOpLoLXYphWFqS6JO8mQ","Native Grill & Wings",-111.917,33.4071,"Tempe",79,2.97297297297297,3.16216216216216
+"133","GPAg6fpHEiYNDbd_QWTc8g","Horse & Hound Sports Grill",-111.917,33.4076,"Tempe",24,3.66666666666667,3.44444444444444
+"134","IVcJFeRGNWpn4sZv-mWpiA","Prankster's Gar and Brill",-111.923,33.4078,"Tempe",39,2.6875,3.625
+"135","HmNMIuTR3lH0OTpkog2dTQ","Q & Brew",-111.941,33.3917,"Tempe",14,3.4,3.8
+"136","9cAWufXd7SvykcNHutxFug","Time Out Lounge",-111.94,33.3945,"Tempe",33,1.84615384615385,3.92307692307692
+"137","Mmz8iWNfeXkp1dIP0FkTaw","Palo Verde Lounge",-111.952,33.4074,"Tempe",43,0.4375,3.75
+"138","452qcsoV-d55n0V7Osh50A","Graham Central Station",-111.964,33.3459,"Tempe",41,1.58823529411765,3.05882352941176
+"139","ht17atGW3tP8dFeiJkXI_g","Skip & Jan's Sports Bar",-111.963,33.3459,"Tempe",36,3.42857142857143,3.21428571428571
+"140","jnYK5m7KoEQ3tZ6ZPH8ACA","Boston's Bar & Grille",-111.912,33.3506,"Tempe",17,1.71428571428571,2.14285714285714
+"141","9pGs5hcA-13x5o97XcMt_g","Applebee's",-111.965,33.3486,"Tempe",27,0.4,2.9
+"142","trG1k-K6Nq4YKcexa1AGOA","Buffalo Wild Wings",-111.791,33.3317,"Gilbert",97,2.80952380952381,3.21428571428571
+"143","Btmq4WdwevpVWTPjhzf1YQ","Teakwood Tavern and Grill - Gilbert",-111.786,33.3052,"Gilbert",90,3.23076923076923,3.61538461538462
+"144","CZCDusV1kumHM7cO8CFqBQ","The Other Room",-112.153,33.582,"Glendale",9,3,4
+"145","-vF04fhPCoSdqgIhAZm0wQ","Marc's Sports Grill & Nightlife",-112.155,33.5831,"Glendale",28,0.0909090909090909,2.27272727272727
+"146","BzVL418zXA493ylw8Ltx7w","Applebee's",-112.186,33.5825,"Glendale",19,2.85714285714286,2.71428571428571
+"147","R6tP_sNGD9rCU4dFPNEFPQ","Stardust Country",-112.153,33.5675,"Glendale",8,0.5,2.5
+"148","CTOz7KhvX2QNvBXBXOvV7w","Swizzle Stick Cocktail Lounge",-112.17,33.5675,"Glendale",7,0.333333333333333,2
+"149","XHjpd-DM7-5paAurBTlTJw","5030 Cocktail Lounge",-112.168,33.582,"Glendale",7,5.33333333333333,4.66666666666667
+"150","AoJUauqYx9rjBPouocdFjg","Jimbo's Bar & Grill",-112.169,33.597,"Glendale",37,4.28571428571429,3.78571428571429
+"151","FepoUL-tGuQFYc0u_fngsg","Silver Q Hookah Lounge and Billiards",-112.202,33.5962,"Glendale",6,2.66666666666667,3.33333333333333
+"152","7Vpyfk04bIBPAHL5zRQEzg","Charley's Place",-112.154,33.611,"Glendale",11,5.8,4.6
+"153","HKr_xfeyrv2Bh7urZsQEVA","Tony's Cocktail Lounge",-112.187,33.6261,"Glendale",19,1.25,4.125
+"154","mkvGW-l5BCNQvSzjLDYoBg","Chilly Bombers",-112.166,33.6389,"Glendale",18,2.6,2.4
+"155","jIqbggyfbv37DgMk0_780A","Cheers",-112.188,33.6386,"Glendale",9,7.33333333333333,4.33333333333333
+"156","Y-5knOy4atrpy-TJU7gEfQ","Tailgaters Sports Bar & Grill",-112.19,33.6387,"Glendale",33,1.36363636363636,3.27272727272727
+"157","q-G7FT5iJsSdhcGFCX10uw","Padre Murphy's",-112.153,33.6399,"Glendale",72,1.9375,3.03125
+"158","lFKcrBE-1w5q0TAFxZ_Qww","Applebee's",-112.357,33.4649,"Goodyear",30,0.928571428571429,2.35714285714286
+"159","TQasUKgKxJGMINAXuNE63A","Driver's' Sports Grill",-112.364,33.484,"Goodyear",3,-1,1
+"160","64IrwpAlZKQ-Pd70gNmiOQ","Roman's Oasis",-112.421,33.4356,"Goodyear",32,2.8125,4.3125
+"161","OPKUjv6D5G46Lh2BHP20fA","The Old Pueblo Cafe",-112.358,33.4938,"Litchfield Park",96,3.09302325581395,3.2093023255814
+"162","FxteKHchB9rFBHTZNTZH_A","Applebee's",-112.356,33.6421,"Surprise",20,0.142857142857143,2.14285714285714
+"163","WVXAomsiK-r64G_OqtITrQ","Runner's Sports Bar",-112.336,33.6371,"Surprise",3,4,4
+"164","if_VgGCfq18P2Z24JdipSA","High Octane Lounge",-112.348,33.6392,"Surprise",6,-9.66666666666667,1.66666666666667
+"165","SoMmHSD_g9xQv68GV22RZw","Fox and Hound",-112.238,33.6291,"Peoria",53,3.22727272727273,3.54545454545455
+"166","GwxCl1eT1lrC-PqtHTSObg","The Moon",-112.234,33.635,"Peoria",37,3.9375,3.6875
+"167","iPOvppPpoMPUMPyVN81JLQ","Hooters",-112.234,33.6358,"Peoria",33,4.53846153846154,3.07692307692308
+"168","v_XRRT2q4BNrzR3lt34dwg","Applebee's",-112.231,33.6376,"Peoria",3,-2,1
+"169","Xme5djuu9yL08NVPXX1xzw","Mecca Sports Bar & Grill",-112.729,33.9695,"Wickenburg",5,2.5,3
+"170","-gefwOTDqW9HWGDvWBPSMQ","Seamus McCaffrey's",-112.074,33.4505,"Phoenix",193,3.78443113772455,3.59281437125748
+"171","YhQxJ4I7bXJ9IAQo7YdJFg","The Paper Heart Gallery",-112.084,33.453,"Phoenix",11,3,3.875
+"172","dn2rubA4plfH63B6nOVioA","Networks Bar & Grill",-112.077,33.4492,"Phoenix",67,2.45454545454545,2.98181818181818
+"173","PdRzCJWP7nPdYoHPdd5SOQ","Portland's Restaurant & Wine Bar",-112.074,33.4597,"Phoenix",90,5.54666666666667,3.33333333333333
+"174","w-ghJKIBJwKy0E--GPgB9A","Hoot Owl",-112.154,33.6375,"Phoenix",18,2.16666666666667,4
+"175","cqIHyZ3Q0D4vBi-vb4mi-g","Bikini Lounge",-112.092,33.4591,"Phoenix",153,1.7578125,3.859375
+"176","N_6bV3c3JagKW7sD3X9ldA","Original Hamburger Works",-112.091,33.4798,"Phoenix",167,5.05405405405405,3.61486486486486
+"177","ZvvTPVqChi-mQd1JV6VM5w","Nu Towne Saloon",-111.974,33.4511,"Phoenix",16,1.91666666666667,4.41666666666667
+"178","uQyrVlJS4nh2Y3C0fCy3fw","The Bunkhouse Lounge",-112.083,33.5013,"Phoenix",19,2.05555555555556,3.11111111111111
+"179","eFK2QePKvAowH-uX-0V4hQ","Charlie's",-112.084,33.5088,"Phoenix",103,2.52222222222222,3.25555555555556
+"180","9mQj65SmYj2pcehH339aEw","The Hidden House Cocktail Lounge",-112.082,33.4876,"Phoenix",56,1.4047619047619,3.30952380952381
+"181","UAzZDOlg_Fp4-8YhHDpo2g","Garnett's Rite Inn",-112.083,33.4956,"Phoenix",9,0.666666666666667,3.33333333333333
+"182","9UO40OsPTdXDl_hR2obOzg","Bruno Mali's Cafe & Gift",-112.082,33.4876,"Phoenix",4,-0.5,3.5
+"183","BjznUPL2h5-vOkPHsnF40w","OZ Bar",-112.098,33.5245,"Phoenix",5,3.8,4.4
+"184","nbCAnw8b9_3EaSPpEfLd2w","The Recovery Room",-112.103,33.5239,"Phoenix",26,2.16666666666667,3.79166666666667
+"185","4JbQSLiRKQudjDn9fYyEiw","Bullocks Country Attitudes",-112.114,33.524,"Phoenix",5,3,4.16666666666667
+"186","FS8-2ptrd9mOBrjDCH88Bw","Mvp Sports Bar",-112.151,33.5391,"Phoenix",3,3,2.5
+"187","x9XX-dcVZfpU_J5UWuWzeg","O'Connor's Pub",-112.116,33.5672,"Phoenix",22,5.21052631578947,4.57894736842105
+"188","HmieoxfEuZT91ojxluadZg","Shenanigans Bar & Grill",-112.108,33.6401,"Phoenix",22,3.52631578947368,3.21052631578947
+"189","dOUtKHQ8Q0eHFjKPmi07tw","Bailey's Pub",-112.133,33.6552,"Phoenix",20,1.42857142857143,3.14285714285714
+"190","GVUtuBmDdvXxXtjrvHHJnQ","The Flight Line Bar and Grill",-112.1,33.6867,"Phoenix",13,3.45454545454545,3.36363636363636
+"191","VF9wvcgVPDVa9LBDHPrXuw","Stackers Restaurant",-112.12,33.5964,"Phoenix",22,3.47368421052632,3.63157894736842
+"192","sHac5Efa3ZPK9GpeeHvylQ","BullShooters",-112.133,33.5808,"Phoenix",32,2.25,3.16666666666667
+"193","NvI3tykB4nbcAW0E2BYS7Q","The Nugget",-112.239,33.4951,"Phoenix",3,1.5,1.5
+"194","ECBzFJhjbTyPHG7hZHPh_w","O'Brien's Sports Bar",-112.134,33.5524,"Phoenix",22,4.17647058823529,3.52941176470588
+"195","3R3fjDKBoF8-3eKQKXdrcw","Metro Sportz Bar",-112.119,33.5795,"Phoenix",19,-0.428571428571429,3.07142857142857
+"196","DHk8is9rvfnATsW1AudWQg","Santisi Brothers",-112.117,33.6416,"Phoenix",190,3.98101265822785,3.86075949367089
+"197","76t0p7bQRbHwPLXmIk2DyA","Applebee's",-112.119,33.6399,"Phoenix",4,-0.666666666666667,3.33333333333333
+"198","0w8fZao3bZYF57vyYoJjZQ","Hardtailz",-112.135,33.6383,"Phoenix",4,4,4
+"199","i7SSAUdpfAqqYCk1ynGSKw","Dave's Place",-112.118,33.6412,"Phoenix",12,4.22222222222222,4.33333333333333
+"200","fRzGPHlIA105vAW84XYWYQ","The American Legion Post 105",-112.135,33.6121,"Phoenix",3,3,4.33333333333333
+"201","RnUemTgfTTCU01Xn2Tc5qQ","Sun Devil Liquors",-111.84,33.4203,"Mesa",64,5.35849056603774,4.49056603773585
+"202","strMzTo9IsGhUVBkcB73jw","The Woodshed II",-111.875,33.4228,"Mesa",25,3.91304347826087,3.39130434782609
+"203","zbPIIrWgw25kqAFkdBKxOA","Sluggo's Sports Grill",-111.828,33.4191,"Mesa",7,5.33333333333333,3.83333333333333
+"204","s9XNBJAZ3ZcNW5u8BRZXuw","Blue Adobe Grille",-111.835,33.5853,"Scottsdale",145,4.94615384615385,4.11538461538461
+"205","c0-q98sX3AEsiYKSVIukyQ","El Charro Restaurant & Cocktail Lounge",-111.84,33.4176,"Mesa",55,2.97959183673469,3.38775510204082
+"206","JIUlJaFzsBpQ1e5QpILOhw","Hambone Sports Bar and Grill",-111.812,33.4147,"Mesa",17,2.27777777777778,3.94444444444444
+"207","tK_a3oP-70kAr0u3qvwPPQ","Applebee's",-111.718,33.4369,"Mesa",24,2.1,3.1
+"208","KuUHf5U3CHIMBZqQTti7OA","DJ's Smoke Shop",-111.844,33.3352,"Chandler",6,0,3.2
+"209","7_fkHRNNHSFVP0pQCWm4yQ","Max & Ted's 480",-111.842,33.3112,"Chandler",10,2,3.875
+"210","xkiVHfXb0QsuXp8HRzWWGw","First Round Draft",-111.824,33.3364,"Gilbert",27,3.47826086956522,2.47826086956522
+"211","Ps6qpHmBDs5LFEOnDTSFVw","Buffalo Wild Wings",-111.822,33.3494,"Gilbert",50,3.30434782608696,3.06521739130435
+"212","-6O53B-ksqSKzWM6Y9moEQ","Mesquite Grill and Sports Bar",-111.832,33.3783,"Gilbert",16,2.33333333333333,3.6
+"213","cPqDrBq3tL0dCinRFV02Pw","Applebee's",-111.808,33.336,"Gilbert",18,2.125,2.75
+"214","0wK--zW6Bgqgvnob8Qc77g","Famous Sam's",-111.805,33.3215,"Gilbert",29,3.31034482758621,3.51724137931034
+"215","ihquMwE0LfLtRILg-7b-NA","Crown Room",-111.921,33.5014,"Scottsdale",24,3.54166666666667,4.04166666666667
+"216","xWlCgISVtozxCztPA4nGaQ","Dos Gringos",-111.928,33.497,"Scottsdale",218,2.89010989010989,3.43956043956044
+"217","SjFl_V6BTGkmv4tbub-AVw","Mickey's Hangover",-111.925,33.4987,"Scottsdale",50,2.04255319148936,3.27659574468085
+"218","A8Khz3eeqIFFGaXurg3hxw","Rusty Spur Saloon",-111.925,33.493,"Scottsdale",107,2.96739130434783,3.97826086956522
+"219","kfveMaYeaqGVNHPitT4O9w","Pita House",-111.926,33.4943,"Scottsdale",95,3.64473684210526,3.19736842105263
+"220","AaYHMYoeOt-5nN32vTA_Dg","Suede",-111.923,33.5013,"Scottsdale",29,2.36363636363636,2.54545454545455
+"221","fjAQGf-iJlVjD2vizzuORQ","Giligins",-111.925,33.4982,"Scottsdale",179,1.51948051948052,3.16233766233766
+"222","MGl3I2GX_hxrton3XoZKrA","Billet Bar",-111.926,33.4916,"Scottsdale",9,2.14285714285714,3
+"223","24V8QQWO6VaVggHdxjQQ_A","Arcadia Farms Cafe",-111.93,33.4942,"Scottsdale",286,5.93032786885246,3.93032786885246
+"224","ssmiBFaHbH_k97GsuQCOIw","Furio",-111.926,33.4915,"Scottsdale",40,4.84848484848485,4.03030303030303
+"225","P5uC-zfGG6yqoQDUyqyAvg","Kazimierz World Wine Bar",-111.927,33.4995,"Scottsdale",333,4.72302158273381,3.95323741007194
+"226","mxrXVZWc6PWk81gvOVNOUw","Roaring Fork",-111.927,33.5087,"Scottsdale",514,5.85416666666667,4.11342592592593
+"227","3g2ofV7mhEoPyfF7vFMObA","Mulligan's",-111.924,33.4997,"Scottsdale",31,0.96551724137931,3.06896551724138
+"228","sYZt3f1YFlg0ycDMyO-vJw","The Blue Moose",-111.924,33.4922,"Scottsdale",52,3.89130434782609,3.5
+"229","o4DsvwwD2kIbF-EM4r9G8A","Drift Lounge",-111.92,33.4999,"Scottsdale",57,4.35416666666667,3.5
+"230","1mhywrdsgdqJM3OGZIpVtA","Martini Ranch",-111.924,33.4994,"Scottsdale",133,2.95145631067961,3.47572815533981
+"231","b5cEoKR8iQliq-yT2_O0LQ","Carlsbad Tavern",-111.909,33.4868,"Scottsdale",465,4.98496240601504,3.80451127819549
+"232","hGQsnkndreW7b26XC2HVRA","Zipp's Sports Grill",-111.918,33.502,"Scottsdale",185,4.20125786163522,3.50943396226415
+"233","9SKdOoDHcFoxK5ZtsgHJoA","Prankster's Too",-111.911,33.4802,"Scottsdale",73,3.70149253731343,3.61194029850746
+"234","cjjZt2oOkk0F152RkQMfQw","Coach House",-111.93,33.4946,"Scottsdale",168,2.82758620689655,4.19310344827586
+"235","j0h1Mb3gwknnqR9kFH8tWA","Acme Bar & Grill",-111.927,33.4976,"Scottsdale",11,1.09090909090909,2
+"236","aDBT5MB0L2JCUo3kqgFRJw","Karsen's Grill",-111.925,33.4924,"Scottsdale",72,4.98275862068965,4.27586206896552
+"237","679pJn1KyKr2X8NcQNyMzA","TT Roadhouse",-111.935,33.4808,"Scottsdale",65,3.28846153846154,4.09615384615385
+"238","5ttO7shA52dEPXIotAUY3g","Anderson's Fifth Estate",-111.933,33.4956,"Scottsdale",12,1.3,2.8
+"239","ksOGKaLTEn6NSDgTXb039Q","Chances",-111.918,33.4987,"Scottsdale",19,2.4375,3.0625
+"240","T1EfT96sCrn_UUWQMhzB5w","Dirty Dogg Saloon",-111.926,33.5811,"Scottsdale",58,2.97959183673469,3.61224489795918
+"241","-3xbryp44xhpN4BohxXDdQ","The Keg Steakhouse + Bar",-111.976,33.6753,"Phoenix",143,4.62698412698413,3.91269841269841
+"242","DKk7lb0bVCVoDChyptrOog","Terroir Wine Pub",-111.924,33.5392,"Scottsdale",63,5.48780487804878,4.17073170731707
+"243","2JZv-P1lDKOPKvefQlYDEQ","Village Tavern",-111.925,33.5662,"Scottsdale",141,5.4695652173913,3.81739130434783
+"244","9r5YLKGTdQz_Q29cBifePQ","British Open English Pub & Grill",-111.927,33.4634,"Scottsdale",78,4.71641791044776,3.55223880597015
+"245","raaxDfFSCsqpJVSo2LAC2w","Playa Bar the",-111.9,33.4664,"Scottsdale",4,4,2
+"246","0zHHvaVxvR5BpFXECvNNFQ","El Dorado Bar and Grill",-111.896,33.4662,"Scottsdale",22,4.05,4.05
+"247","eA-qHFglOMhHwXcnHBRpNg","Flicka's Baja Cantina",-111.926,33.47,"Scottsdale",46,4.25641025641026,3.48717948717949
+"248","iolKKrnT8mVN-r3TzLI9Tg","The Longshot Bar & Grill",-111.92,33.4662,"Scottsdale",4,3.75,2.5
+"249","yW4XOMS4biiSXOwkbZ6wpA","Rogue Bar",-111.926,33.4533,"Scottsdale",67,1.18333333333333,3.51666666666667
+"250","dLIoHdn_lPiA1UC9sLqugw","On the Rocks",-111.925,33.4753,"Scottsdale",3,0.5,3
+"251","RvrwLdirQ5w27dk3qkX2JA","The Dirty Drummer",-111.927,33.4788,"Scottsdale",14,4,3.75
+"252","jEWfxxA_kjeJE_Z_ku3zLA","RA Sushi Bar Restaurant",-111.94,33.4262,"Tempe",231,3.26455026455026,2.76719576719577
+"253","JokKtdXU7zXHcr20Lrk29A","Four Peaks Brewing Co",-111.916,33.4196,"Tempe",1241,5.37894736842105,4.33397129186603
+"254","TzImzfIWkZTnetKl2a4-SQ","Gordon Biersch Brewery Restaurant",-111.94,33.4257,"Tempe",208,3.79545454545455,3.32386363636364
+"255","G3zvxtzN46-rfTTqwfhqLg","Maloney's On Campus",-111.924,33.4213,"Tempe",8,1,2.5
+"256","YPjYXym_ELaoo8c2cdVPBA","Library Bar & Grill",-111.94,33.4253,"Tempe",39,1.3448275862069,3
+"257","L2J3JfjXZLnX1rLhWKthqA","Rula Bula",-111.94,33.4264,"Tempe",333,4.62730627306273,3.64206642066421
+"258","XyE2QzPQjhvMXpSyw5Kvog","Philly's Sports Bar & Grill",-111.927,33.4497,"Tempe",69,5.14754098360656,3.83606557377049
+"259","G7Q0Tm2XBI5rqd5wyUc0jg","Mill Cue Club",-111.94,33.4239,"Tempe",81,1.93650793650794,3.36507936507937
+"260","MnHlTUSAPev7YRbdZDv5ew","Red Sea Hookah Lounge",-111.925,33.4211,"Tempe",27,3.6,3.84
+"261","i8Kf3Mkp1Ln-6IyF_CEFdA","Big Fish Pub",-111.903,33.4225,"Tempe",13,1.63636363636364,3.54545454545455
+"262","5BXNeSwzOy1nhU9PtCHvIw","Stray Cat Bar & Grill",-111.886,33.4216,"Tempe",33,4.26666666666667,3.56666666666667
+"263","-O7H5LhBkE13VQZB0QZI0Q","Fat Tuesday",-111.94,33.424,"Tempe",99,1.1304347826087,3.01086956521739
+"264","6cP98Gw5ewNPd9moSh5Pkg","Margarita Rocks",-111.941,33.4266,"Tempe",30,1.03703703703704,2.55555555555556
+"265","yi5pFL1xhnMUH0BZb8xNUw","Trailer Park Restaurant",-111.923,33.4204,"Tempe",27,1.78260869565217,3.26086956521739
+"266","2ceeU8e3nZjaPfGmLwh4kg","Casey Moore's Oyster House",-111.943,33.4209,"Tempe",471,3.65671641791045,3.89303482587065
+"267","4IiZ8S7xViflVR9Fo4SGpw","The Derby Grill & Pub",-111.928,33.3629,"Tempe",3,5,2
+"268","n2obEkXP7e3QCNkYXcO3Cg","Baseline Sports Bar",-111.937,33.3778,"Tempe",30,2.93103448275862,2.96551724137931
+"269","aS3B7B2CgaJMJ4kJ2RtxBw","The Woodshed",-111.94,33.3782,"Tempe",21,4.23529411764706,3.88235294117647
+"270","fvQJ9iwsdCZyWkKmrmP53Q","Hooper's Pub",-112.17,33.5531,"Glendale",6,3.83333333333333,3.33333333333333
+"271","PLSEnkN4XybG_6qJi0R27w","Max's Restaurant & Sports Bar",-112.159,33.5353,"Glendale",26,1.81818181818182,3.13636363636364
+"272","u36r5QRRwvFQGBblrMxDlA","Lighthouse Sports Bar",-112.325,33.4931,"Avondale",9,1.28571428571429,1.42857142857143
+"273","pG1_llTQIrd5NRc_acQMKQ","Satisfied Frog",-111.933,33.83,"Cave Creek",10,1.875,2.875
+"274","sKmclh-d2gJkzVVbLdTgtQ","The Spurr Lounge",-112.178,33.3772,"Laveen",14,3.41666666666667,4
+"275","0SI_lD1xTb6hUqpruo6ovw","Gallagher's Food & Fun",-112.204,33.5827,"Peoria",14,1.35714285714286,3.5
+"276","rhN7xg5XzvRKvdAXE9lBtA","Q Bar and Grill",-112.203,33.5681,"Peoria",22,2.88888888888889,3.55555555555556
+"277","NPDwKpXSVToTXVMqNq6KBA","Marino's Cocktail Lounge",-112.201,33.5822,"Glendale",5,2,2.33333333333333
+"278","VuZrFTCPyairmiB_c3WUnQ","Neighbors",-112.221,33.582,"Peoria",5,3.6,3.2
+"279","gak2GGkgucTsnsbEanCb9A","Enoch's Sports Lounge",-112.204,33.5827,"Peoria",12,1.55555555555556,3.11111111111111
+"280","cexR4j7jfgnTMbbb_YEDWg","Deli Sports Bar",-112.266,33.5799,"Peoria",14,2.76923076923077,4.46153846153846
+"281","jQt1xMibtitBczJN6LXT1Q","Amsterdam",-112.074,33.4562,"Phoenix",98,3.6375,3.6375
+"282","cN6aBxe2mQvrQlzk26LyRQ","Durant's",-112.073,33.4772,"Phoenix",460,5.57105263157895,4.16052631578947
+"283","aRkYtXfmEKYG-eTDf_qUsw","Lux",-112.074,33.5006,"Phoenix",956,4.67480719794345,4.29562982005141
+"284","9tSHBEoAhKu-tkU8n6SKjA","Los Dos Molinos",-111.857,33.4097,"Mesa",254,3.88625592417062,3.86255924170616
+"285","7xbTnoyaai4JTkZ8rFPQTA","Devil's Martini",-111.93,33.4961,"Scottsdale",37,2.80645161290323,3.03225806451613
+"286","JhupPnWfNlMJivnWB5druA","AZ 88",-111.924,33.4923,"Scottsdale",425,6.21866666666667,4.00533333333333
+"287","cpjNtM6Hzs3YjTBFEFcL-Q","Scottsdale Mondrian",-111.924,33.4945,"Scottsdale",41,3.84848484848485,2.36363636363636
+"288","E7nk0lC317pGxMX56gvaVQ","Bungalow Bar & Grill",-111.926,33.4997,"Scottsdale",161,4.89830508474576,3.4406779661017
+"289","OFBJtqWGSx6n6CchtVmoRw","Delux",-112.015,33.5101,"Phoenix",650,5.61623616236162,3.98892988929889
+"290","n6Zz_KdxcUou8b2MSoz2tw","Eli's American Grille",-111.93,33.5826,"Scottsdale",67,4.82142857142857,3.67857142857143
+"291","YI96mMSf2GxXq7aFHLHx3g","Vino Lounge",-111.93,33.5826,"Scottsdale",10,11,4
+"292","EWMwV5V9BxNs_U6nNVMeqw","FEZ",-112.073,33.4917,"Phoenix",1117,5.73949579831933,4.13445378151261
+"293","Tz7Miv7gbqhLF9OrL6V6tw","Magnum's Cigars Wine & Liquor",-112.065,33.6537,"Phoenix",63,5.15789473684211,4.73684210526316
+"294","mHZXq1c6j1b5bKXTxKJ-pA","Pussycat Lounge",-111.922,33.5016,"Scottsdale",56,1.66666666666667,3.33333333333333
+"295","w5XcgWwGAN21Ly2HeU48IQ","Sauce Pizza & WIne",-112.064,33.539,"Phoenix",86,4.14285714285714,3.71428571428571
+"296","RHu3ttXpLRWkhrlo7-xdBg","Grand Avenue Tavern",-112.112,33.4762,"Phoenix",14,11.8333333333333,4.33333333333333
+"297","yc5AH9H71xJidA_J2mChLA","Rosie McCaffrey's",-112.062,33.5095,"Phoenix",223,4.46875,3.69791666666667
+"298","AFx48YCp7n7dn-AXp71zAw","Tapino Kitchen & Wine Bar",-111.93,33.5826,"Scottsdale",32,8.4375,4
+"299","zmFc8M-hS4uuyY0hklIpoQ","Carly's Bistro",-112.071,33.4587,"Phoenix",298,5.17460317460317,3.77777777777778
+"300","DjdA1xbHki_lopCSxf-Egg","Greasewood Flat",-111.846,33.7321,"Scottsdale",116,2.95555555555556,4.13333333333333
+"301","L7_-U4QPJBYxEpD0BdT4Pw","Cook N Jacks",-111.929,33.4951,"Scottsdale",4,0.5,2
+"302","6nseTZb6WrGWcithRThfag","Padre's Modern Mexican Cuisine",-112.059,33.5093,"Phoenix",140,6.06349206349206,3.88888888888889
+"303","UL3OMN_c-NXHlyb97pDifA","Yard House",-111.929,33.5025,"Scottsdale",284,3.94915254237288,3.51694915254237
+"304","Edj0quZE5k1WcAtf883j6w","Shady's",-112.024,33.4947,"Phoenix",158,3.61904761904762,4.12698412698413
+"305","uVbt9dOe6qJgBBI4_XsXRA","Fleming's Prime Steakhouse & Wine Bar",-111.889,33.6743,"North Scottsdale",106,6.04166666666667,3.9375
+"306","ADWYOcE1GCVcyF97OUkaGg","Red Owl Sports Grill",-111.893,33.4214,"Tempe",6,1.5,4.5
+"307","OwHqwmHwswArpv3m3dlw_Q","Burger Betty's",-112.064,33.5113,"Phoenix",5,-0.5,2
+"308","bcBMAa0UQpNLFvvdZ4dxtQ","BS West",-111.927,33.4978,"Scottsdale",70,0.607142857142857,3.57142857142857
+"309","4tATdfQafdn2CBzxKQxVqw","E Lounge",-112.083,33.4998,"Phoenix",3,13,3
+"310","VFjeCLwVMguUNWH-DeOgyw","Fox News Sky Box",-111.994,33.4347,"Phoenix",35,1.35294117647059,2.58823529411765
+"311","kPh2gPvd8moVx6gNf2iHsA","Taberna del Tequila",-112.026,33.4396,"Phoenix",38,0.235294117647059,2.11764705882353
+"312","Q_jHqufNoxdlgCtLbqrpsA","Big Bang - Dueling Piano Bar",-111.94,33.4253,"Tempe",163,3.93650793650794,3.98412698412698
+"313","6xCGyy7exgjPcGCsCMCbKw","Drinx",-111.923,33.4997,"Scottsdale",4,6,3.5
+"314","9BJ5h9X1krpXFjKj0a6wbg","Dick's Hideaway",-112.048,33.5243,"Phoenix",420,4.03977272727273,4.25
+"315","oaakO-X7uOXNxqsxjDSKfg","Half Moon Sports Grill",-112.037,33.5055,"Phoenix",140,4.29310344827586,3.36206896551724
+"316","D7uAJToqGk1hQxfZDO5ijg","Belvedere American Bar & Grill",-111.989,33.4531,"Phoenix",16,2.85714285714286,3.28571428571429
+"317","UScgPn6pIHuOmQJTsZQIOg","Corbin Bar & Grill",-112.073,33.5638,"Phoenix",147,4.90140845070423,4.01408450704225
+"318","-yxfBYGB6SEqszmxJxd97A","Quiessence Restaurant",-112.013,33.3907,"Phoenix",142,6.75,3.5625
+"319","LU0HLP1acjTO1fyjEigbpw","Red Onion Lounge & Restaurant",-112.031,33.6228,"Phoenix",37,4.53846153846154,3.07692307692308
+"320","wHS4_jf6jcJnZ9TAOtcGpw","Barwinkles",-112.187,33.6261,"Glendale",3,4,2
+"321","7cP7WFmWiTVh-raIL3N_Vw","The Roosevelt",-112.07,33.4572,"Phoenix",221,5.51685393258427,4.03370786516854
+"322","yhqNXuxKVQ1-ngZD7dWcmg","Two Glass Eyes Sports Grill",-111.908,33.3774,"Tempe",3,1.5,2.5
+"323","GikgHUUW1L7Nut6Xp0PaTw","Latitude 30",-111.97,33.3759,"Phoenix",4,9,4.5
+"324","e3izESeW0BUx0s96FdSLag","Va Bene Italian Restaurant - Martini & Wine Bar",-111.981,33.304,"Phoenix",162,4.97101449275362,3.92753623188406
+"325","FqzgT9Y-Yu7jiWdHnGW-kQ","The Vig",-111.995,33.4945,"Phoenix",459,5.26455026455026,3.84126984126984
+"326","KwGQqUCpHHhOhVqyOL2QTA","Jackrabbit Supper Club",-111.923,33.4979,"Scottsdale",18,2.14285714285714,2.14285714285714
+"327","_SWb6l-M_ohosfSmet3e1w","Buffalo Wild Wings",-112.346,33.4638,"Goodyear",94,1.81395348837209,3.06976744186047
+"328","hsOnzcy8mFbUvIWFC1agoQ","Sandbar",-111.928,33.5777,"Scottsdale",44,1.52631578947368,2.94736842105263
+"329","W7xb2iS4cYL14Yi5LOGSkA","Bison Witches Bar & Deli",-111.938,33.424,"Tempe",127,3.50847457627119,3.05084745762712
+"330","noLH_u4MJzfXYYHqcByjnA","Dubliner",-111.999,33.6119,"Phoenix",69,3,3.54838709677419
+"331","ilJiRYZgxjrEu2iexKu-pQ","Loco Patron",-111.926,33.4978,"Scottsdale",177,3.26923076923077,3.48717948717949
+"332","U-0hMfagGtjYZCYB1i0WNw","Blitz Sports Bar & Grill",-111.928,33.4971,"Scottsdale",65,2.96153846153846,2.69230769230769
+"333","77tMP3nG9TH0rrhf6G4g6A","Lager Fields' Micropub and Grill",-112.01,33.6422,"Phoenix",6,2.66666666666667,2.66666666666667
+"334","AxyWLgtC_MR8Y8i8YqtWHg","E4",-111.924,33.4982,"Scottsdale",18,1.77777777777778,2.44444444444444
+"335","o9nCXNC14VScabiy2bftgw","Tilted Kilt Pub & Eatery",-111.929,33.6382,"Scottsdale",93,3.25,2.97222222222222
+"336","gj0TXVTQzU8xn6Atx7IYwA","Mardi Gras Bar and Grill",-111.907,33.4661,"Scottsdale",12,6.4,3
+"337","cXx-fHY11Se8rFHkkUeaUg","16th Street Sports Bar & Grill",-112.048,33.5318,"Phoenix",46,3.375,3.875
+"338","p_cnKPQBqNwhKsLHSmKKKA","Burn Nightclub",-112.072,33.4484,"Phoenix",8,-0.25,3.5
+"339","irNhzcao8kH6XkNeE916zA","Fusion Restaurant and Lounge",-111.923,33.5017,"Scottsdale",6,4.5,4
+"340","WNy1uzcmm_UHmTyR--o5IA","Cornish Pasty Company",-111.951,33.4227,"Tempe",1033,4.72,4.36941176470588
+"341","YWDfUAPwScdW_9GmGskkZg","Coppers Sports Grill",-111.982,33.64,"Phoenix",3,-2,4
+"342","axNlxFkTSFqivM_k36k0BA","Chaser's Nightclub",-111.908,33.4577,"Scottsdale",16,3.33333333333333,3.5
+"343","88zj5V7vOwrvdNjYushUvA","Maloney's on Shea",-111.894,33.5821,"Scottsdale",3,2.5,2.5
+"344","xVaPo0y0qTnkglMGaFYaWQ","DJ's of Scottsdale",-111.923,33.4997,"Scottsdale",39,3.70588235294118,4
+"345","r9sGMJ084n4IS9eGmlCKjg","Feeney's Restaurant and Bar",-112.057,33.53,"Phoenix",124,5.50877192982456,4.01754385964912
+"346","G05ZBbJG1anbt7sOE4GjgA","Regal Beagle",-111.947,33.3038,"Chandler",9,2,3.5
+"347","BD74uSwDe175zEqfppDRvg","Valle Luna",-112.031,33.6329,"Phoenix",155,3.02985074626866,3.77611940298507
+"348","y8XIzVLegx1UJ0ON1IpWmw","The Coconut Club",-111.94,33.4259,"Tempe",3,0,1
+"349","8cL7aJVKTYmLguzXEAS3Lw","Yard House",-111.969,33.6781,"Phoenix",242,5.18556701030928,3.79381443298969
+"350","pQ3kRVmttsV1bHxuTf7TAg","The Lost Leaf",-112.068,33.4582,"Phoenix",279,3.10714285714286,4.21428571428571
+"351","5U1ArcV-HXR5UlkdQx1a9A","Cherry Lounge and Pit",-111.94,33.4262,"Tempe",20,1.77777777777778,1.77777777777778
+"352","OQshbYutpgM8LcBK4mbFdw","Indigo Joe's",-111.789,33.3775,"Gilbert",4,3.5,3.5
+"353","xmjv8g356v8Qo55ICjG8rg","CK's Tavern & Grill",-111.993,33.3058,"Phoenix",134,4.04761904761905,4.14285714285714
+"354","_bSdZgx6OuvkfIdudGKwGg","Coyote Alley",-112.422,33.6402,"Surprise",7,4,3.5
+"355","GpM75HH17EN6T8-Zoz93AA","Newsroom Lounge",-112.073,33.4535,"Phoenix",4,4,5
+"356","qUUs7IIytYWyWlWXH7Rz-w","Hurricane Bay",-112.148,33.6387,"Phoenix",37,4.14285714285714,3
+"357","Vtx0VYkybAd71fzwgaoQ8g","The Skeptical Chymist",-111.891,33.6281,"Scottsdale",233,4.26086956521739,3.6195652173913
+"358","X7r9ogduV4JAaO_20nkZgg","Skybar",-111.924,33.4945,"Scottsdale",15,3.66666666666667,3.5
+"359","UzwmwWbLyxInwNZZlZAf_A","Z Girl Club",-112.083,33.4987,"Phoenix",14,3.16666666666667,2.16666666666667
+"360","eltBRxiy9QlXA8QwgoyZgA","The Silver Pony",-112.083,33.3636,"Phoenix",15,6.2,4
+"361","Umg9N8SFHm_B53uetHH8JA","Hail Mary's On Priest",-111.961,33.4129,"Tempe",22,4.55555555555556,2.77777777777778
+"362","vMeO4qFGHvu8ZyMsH0LDdw","Boston's Restaurant & Sports Bar",-111.945,33.4222,"Tempe",68,3.375,2.6875
+"363","wJ-JsU531VcSKta0oFh15Q","D'Vine Bistro & Wine Bar",-111.683,33.4678,"Mesa",85,6.30555555555556,4.13888888888889
+"364","yPpPJyAF8pciHnhTF-C38w","Homme",-112.077,33.5096,"Phoenix",23,2.2,3.8
+"365","yGmdo1ENajB98iryHGoWFw","Monkey Pants Bar & Grill",-111.939,33.3941,"Tempe",115,3.8,3.44444444444444
+"366","DmO9vsVgGwwu7QdZPoi6xA","Mamacita's Cantina",-111.936,33.4223,"Tempe",3,1,1
+"367","bfDQai9X59uWK-XgP0t6rA","Dos Gringos",-111.964,33.3442,"Tempe",80,3.82352941176471,3.32352941176471
+"368","ch10Snl3LVdj75lYbpLkpg","Phase 54",-111.97,33.3206,"Chandler",11,-0.666666666666667,2.33333333333333
+"369","hzPO52uPWe9FfPuFd0mCGg","Backstreet Wine Salon",-112.004,33.4952,"Phoenix",6,8,3
+"370","n_wZriiakBT7sVn87dpcEA","Pappy's Sports Bar & Grill",-112.099,33.5936,"Phoenix",10,1.33333333333333,4
+"371","raUkcnMB-0BTuNw8pAmV3g","The Clubhouse",-111.927,33.3924,"Scottsdale",4,1,2.5
+"372","drqCrnSqtGffJ1z60aWkxg","Tilted Kilt Pub & Eatery",-111.949,33.3349,"Tempe",88,3.375,3.25
+"373","IkJGALk6OvASIiFLkuTIDg","Skippy's Grill & Cantina",-111.687,33.2324,"Queen Creek",27,4.54545454545455,4.09090909090909
+"374","EyXFPk2jyuLIHidI7jNsLw","Gallopin' Goose Saloon and Grill",-111.525,32.9597,"Coolidge",3,2,5
+"375","55seKyxRWUmHC1s52xk45g","Gallagher's",-112.011,33.3782,"Phoenix",85,2.86486486486486,2.86486486486486
+"376","L1ymPhPjisiSD6RI1NtnQg","Grazie Pizzeria Winebar",-112.513,33.4959,"Buckeye",55,4.18518518518519,3.62962962962963
+"377","AuMz7XGkjLcIUurp_AD51w","The Rock",-112.083,33.4957,"Phoenix",37,2.71428571428571,3.5
+"378","1gRxYjqIRtQPGQTUr-5gLQ","Stingers Sports Bar",-112.152,33.5791,"Glendale",16,2.2,4
+"379","d_gczuhu8T-J0CT9JMb5PA","The Monastery Mesa",-111.728,33.4522,"Mesa",73,3.32142857142857,3.42857142857143
+"380","yMhjh0ASFZscz0QlLxAj0w","Native Grill & Wings",-111.687,33.2331,"Queen Creek",22,1.83333333333333,2.83333333333333
+"381","CH116u4TyXGaTaKFnliASA","Applebee's",-112.26,33.5521,"Glendale",29,2.90909090909091,3
+"382","fgVwzwERnAicqg38PawxsA","Applebee's",-112.11,33.7107,"Phoenix",24,1.77777777777778,2.66666666666667
+"383","7TMf1NuuAdvhG7IojZSKnw","Zipps Sports Grill",-111.91,33.3213,"Chandler",112,3.20454545454545,3.38636363636364
+"384","3-zvo4Y_Bagw6Yifvh1TPg","Enotria Land of Wine",-111.93,33.6557,"Phoenix",9,3.2,2.4
+"385","sDozh6iTylTJD26d7xcgGw","The Tavern On Mill",-111.941,33.4267,"Tempe",107,3.21276595744681,3.4468085106383
+"386","fTPnW0kCE4oQd9yyndrMbQ","Spuds Bar & Grill",-112.136,33.5532,"Phoenix",7,5,3.33333333333333
+"387","z3zcsnK26QhC7TqDX73zvA","Black Angus Steakhouse",-112.117,33.5777,"Phoenix",54,3,3.26086956521739
+"388","ESZbVYzcM53NOWj2hVE-Ag","Uncorked Wine Bar & Bistro",-111.924,33.6354,"Scottsdale",74,6.06451612903226,3.64516129032258
+"389","eUmyEXmaBJO8PTtKooko4Q","Applebee's",-111.689,33.3223,"Higley",34,2.35714285714286,2.5
+"390","NlxvN9wUw14qIS6ledk15Q","Oggi's Sports I Brewhouse I Pizza",-112.202,33.6665,"Glendale",97,3.44444444444444,3.22222222222222
+"391","uyg5_fHXJe837GXd-4yiSQ","Native Grill & Wings",-112.046,33.0721,"Maricopa",62,1.54166666666667,2.75
+"392","V2isTBBfO0NgLzXO9oq1Mg","Sol Y Sombra",-111.91,33.5196,"Scottsdale",39,10.2222222222222,4.11111111111111
+"393","AMwr-IwwaamJ2l3Z8yce6Q","Zipps Sports Grill",-111.785,33.3352,"Gilbert",94,3.63636363636364,3.22727272727273
+"394","O-kpr-VG03MGOcnHaq_1Yg","La Vigne",-111.977,33.3197,"Phoenix",5,8.33333333333333,3.66666666666667
+"395","ipNveHQxPlRmgSe9CSt9dw","Fort Mcdowell Casino",-111.68,33.5823,"Fountain Hills",62,2.12,2.48
+"396","PdWe3jF9YEu5fWBiQXZIgg","Dave & Buster's",-111.997,33.6914,"Phoenix",107,2.57777777777778,2.86666666666667
+"397","Hd6Kh_BcorPhCWVn6pMu4Q","Zipps Sports Grill",-111.865,33.6135,"Scottsdale",102,4.58536585365854,3.51219512195122
+"398","S9LX8EtUHooCWGIGmrHUSg","Down Under Wines",-111.9,33.3056,"Chandler",3,12,4.5
+"399","3QhPvyen9kSiAxduT8g3bQ","Rare Earth",-111.843,33.7421,"Scottsdale",63,5.85714285714286,3.71428571428571
+"400","qf3yb-SxTe0rbrZ98tdw5A","Dog Run Saloon",-111.549,33.4227,"Apache Junction",6,7,4.5
+"401","vkQDObdBffLtHxJ_s8rgOQ","Molly Brannigans",-111.756,33.3805,"Mesa",9,7,3.5
+"402","MBFTTrEAQJaGliiMSkTe7A","Jackrabbit Lounge",-111.923,33.4979,"Scottsdale",13,3,3.5
+"403","6dB7ZoMKYIMH-8r2c-I4fA","Native New Yorker",-112.367,33.6512,"Surprise",3,4,2
+"404","0hZLn2MG_mRPoyrt66JnLQ","Lucky Lou's",-111.684,33.4505,"Mesa",47,5,4.14285714285714
+"405","KX2a8kX4nt2j7D5MqrGLtg","Zorba's",-111.86,33.3345,"Chandler",40,4.75,3.1875
+"406","bSwjTjJhcfJY0rMY7J6Mbg","The Curve On Peoria Bar & Grill",-112.241,33.5812,"Peoria",3,3,5
+"407","1sNep66xroh2ILUrDv9BxA","O' Kelley's",-111.879,33.3646,"Mesa",27,3.41666666666667,3.41666666666667
+"408","BXnIedddKEcfuDAm4_7yXQ","Dirty Harry's",-111.751,33.415,"Mesa",7,5.33333333333333,4.33333333333333
+"409","wI0Q_gUjXFBfBPNb6V9fHw","Steel Horse Saloon",-112.099,33.6438,"Phoenix",8,2.5,5
+"410","Iup_trO5wBDrkv9YjlU54w","Rogue West",-112.136,33.5528,"Phoenix",20,1,4.33333333333333
+"411","wrkErbl0Pi4mszqdqQ8_8g","The Office Bar and Grill",-111.83,33.5841,"Scottsdale",41,5,3.70588235294118
+"412","7_7fxuG9ESAFmx-AiMsJHg","Bar Smith",-112.072,33.4486,"Phoenix",105,3.06818181818182,3.36363636363636
+"413","UCid2Tas6K4SB9sHO9gQ8w","Elephant Bar Restaurant",-111.901,33.3052,"Chandler",150,3.36507936507937,3.17460317460317
+"414","4xofmDvGh2aD8Lgd0PH8GQ","Earl's",-111.893,33.6471,"Scottsdale",37,4.3125,2.875
+"415","bmtANWh8OrAB-QflXwI0xA","Sliders American Grill",-112.069,33.4463,"Phoenix",35,0.846153846153846,2.15384615384615
+"416","zENkQ3CGMkANafH0jwIn_A","Baseline Pub",-111.906,33.3779,"Tempe",25,2.75,4
+"417","16orLd_wKfdfh4AxTZu_zQ","The Office",-111.975,33.6786,"Phoenix",7,7,3.5
+"418","gj9Y6PAos1yD4P7FO8gQWA","Uncle Bear's",-111.62,33.2554,"Queen Creek",15,7.83333333333333,3.5
+"419","GGWy3DXuR5yCMeoaxd_6NQ","The Ruby Room",-112.073,33.4404,"Phoenix",26,5.76923076923077,4.15384615384615
+"420","IVc23uY-36WUNYoIbz42Fg","Switch Restaurant & Wine Bar",-112.074,33.477,"Phoenix",546,5.73251028806584,3.89300411522634
+"421","6TuM3UyFP9O9uzTP0dVZMw","Wally's Pub and Grill",-111.915,33.5652,"Scottsdale",83,4.41935483870968,3.7741935483871
+"422","OSlTIcDNSSt_83ciKwT1Xg","Jade Bar",-111.959,33.522,"Paradise Valley",86,6.4,4.2
+"423","oBn6F3Jl_JtZzaE8cUV9gA","Muze Lounge",-111.893,33.6277,"Scottsdale",3,-2,1
+"424","nHk0-wtfORl-mi-uJBF73Q","Dirty Pretty",-111.92,33.4987,"Scottsdale",36,4.38888888888889,3.66666666666667
+"425","l3yL2rQ6PoFBQ06RLczn9w","The Clubhouse Music Venue",-111.917,33.4076,"Tempe",60,3.28,2.88
+"426","qgYWglXd2dkx5xUWPHCKcw","Taneko Japanese Tavern",-111.927,33.5278,"Scottsdale",11,5.6,3.6
+"427","57YV3wsiNBp-aK25qjUeww","Fibber Magees",-111.875,33.3489,"Chandler",136,4.46296296296296,4.14814814814815
+"428","q9_N4b26UhGAYicjueUinQ","Yucca Tap Room",-111.94,33.3926,"Tempe",134,4.37704918032787,3.91803278688525
+"429","YQ19y3LYgmAHfgNFa01vyA","Armitage Wine Lounge & Cafe",-111.89,33.6721,"Scottsdale",76,5.25,3.53571428571429
+"430","BPN8GzoigZNQHEve5iP-gw","Queen Creek Olive Mill Eatery",-111.583,33.221,"Queen Creek",38,6.07142857142857,3.35714285714286
+"431","5tey93wPQOb7z6jOLJZ30w","Half Moon Sports Grill",-112.071,33.6371,"Phoenix",132,3.50980392156863,3.62745098039216
+"432","TEiuiQi_0W3goZ7x9e_ILw","San Felipe's Cantina",-111.891,33.6722,"Scottsdale",11,2.5,3.5
+"433","DbRGqFmx_lnncvyWmm6a4w","Scoreboard's",-112.4,33.6387,"Surprise",8,5,3.75
+"434","KBvSs0PFpvcpkZuJB1efug","ICON Lounge",-112.073,33.4494,"Phoenix",18,7.28571428571429,2.85714285714286
+"435","-EctXOb3B7T177jGYUhjVA","Boulders On Broadway",-111.948,33.4076,"Tempe",256,4.66371681415929,3.84070796460177
+"436","EzAen1_nwVuiWPKBj9HUpQ","Fox and Hound Pub & Grille",-111.812,33.3787,"Gilbert",38,2.17647058823529,3
+"437","jsJxRLGm8zjWm_HVR2FDnw","Hazelwoods First Place Sports Grill",-112.003,33.4956,"Phoenix",92,3.07894736842105,3.10526315789474
+"438","xEpQHOTqD31qnqXY2d3yLw","Pockets Bar & Grille",-111.792,33.3299,"Gilbert",3,4,5
+"439","-UnYs8XvV1M983xZoREdng","Su Vino Winery",-111.93,33.4925,"Scottsdale",121,7.25490196078431,3.96078431372549
+"440","tvyOw9dBJ-ds5fEXMTjzfQ","Clarendon Kitchen + Bar C4",-112.079,33.4911,"Phoenix",29,12.1666666666667,3
+"441","pDXv67UQjBKScEgGhc5yLg","Catch 22 Sports Grill",-112.013,33.6562,"Phoenix",87,3.55555555555556,3.13888888888889
+"442","shUiQtVZpk_YCUmMYJZf-g","Union Wine Bar & Grill",-111.925,33.4923,"Scottsdale",3,12,4
+"443","snE3ZuXhcHgAVt3xTUGgzQ","Kobalt",-112.075,33.4841,"Phoenix",50,3.60869565217391,3.34782608695652
+"444","4CsZK1YOP8lCLH9ZSf0LMA","The Well Bar",-111.926,33.4778,"Scottsdale",26,3,3.66666666666667
+"445","CcIJKgrjOv8mIEn-a7M5vw","Madelyn's",-112.135,33.8432,"Anthem",4,0,2.5
+"446","tA2DT7CGQPzgA6tTcTkXDw","Centro Paninoteca",-111.927,33.5831,"Scottsdale",34,5.89473684210526,3.84210526315789
+"447","0qPmDwHa9NdvvIOgerR8HQ","Canal Restaurant",-111.927,33.4997,"Scottsdale",40,9.75,3.4375
+"448","-WXH-j7_Ugm6phJDdY5bzw","Applebee's",-111.859,33.3772,"Mesa",25,-0.777777777777778,2.11111111111111
+"449","7A792nNUEhTfE26q1X_2tQ","Anvil",-112.031,33.4947,"Phoenix",5,0.5,3.5
+"450","-A5CFmkgdMEggaihtyxX4Q","nextDOOR",-112.068,33.4579,"Phoenix",12,4.5,3.25
+"451","3VHf0-N0er4fDZIMLt06gQ","Sneakers Sports Grill",-111.915,33.393,"Tempe",7,0.666666666666667,3.66666666666667
+"452","ERtc-EXdP9erEBoh7droww","Draw 10 Bar & Grill",-111.964,33.446,"Phoenix",50,3.66666666666667,4
+"453","9IhB1OUtfTdJyyuZvkt9pQ","Fuzzy's Southwest Sports Grill",-112.374,33.655,"Surprise",30,2.28571428571429,2.57142857142857
+"454","3SVc0wqI3ulVHR9w_CN6-w","Silver Wine & Martini Bar",-112.072,33.4486,"Phoenix",15,2,2.42857142857143
+"455","AaTC0a1gQ8Q6VJ6HQLYllg","Madi G's",-111.978,33.3318,"Phoenix",5,4.5,3
+"456","QL3vFMAsEHqfi1KGH-4igg","Red Bar",-111.924,33.4945,"Scottsdale",11,3.8,2.4
+"457","Gq092IH6eZqhAXwtXcwc6A","SanTan Brewing Company",-111.843,33.3032,"Chandler",580,5.28085106382979,4.0936170212766
+"458","XNSito__Fne14TXU0vz1Qw","Bomberos Cafe & Wine Bar",-112.074,33.5651,"Phoenix",131,6.87037037037037,3.88888888888889
+"459","DVrZlgZAz23cd9UOuwt1Mw","Thirsty Camel at The Phoenician",-111.95,33.5045,"Scottsdale",17,3.83333333333333,4
+"460","M8h8cZ4YYFVH8yNHZuKIVg","O'Donoghue's Pub",-111.907,33.6715,"Scottsdale",40,2.77777777777778,3.77777777777778
+"461","Ma1GxDeDK7M8I2WulaD_LQ","Oasis Cafe",-111.91,33.4074,"Tempe",4,2,2
+"462","TfTlOE6h9E9o34dEkw9L_w","The Rose and Crown",-112.066,33.4494,"Phoenix",261,4.51351351351351,3.45945945945946
+"463","FaiULYK26388GWz7v6tKpA","Churchill's Pub & Grill",-111.859,33.3359,"Chandler",25,5.18181818181818,3.36363636363636
+"464","P1DyzJfy3RCOdT9s9zgNiA","Chez Nous",-112.085,33.4537,"Phoenix",22,1.5,3
+"465","XLaIL98cYVy7nRt1Yu78ug","Fox Sports Grill",-112.258,33.5331,"Glendale",11,7.8,3
+"466","YeDYa6tYL16CyqYvUVOtLw","Margaritaville",-112.262,33.5338,"Glendale",174,1.85294117647059,2.42647058823529
+"467","dBnd-XxU5FUZ_gY6fkiJxg","Native Grill & Wings",-112.278,33.465,"Avondale",45,0.294117647058824,2.64705882352941
+"468","SByEE69Tp_bg2lYj_PYAvQ","South Beach Restaurant and Lounge",-111.88,33.5814,"Scottsdale",11,4.4,3.4
+"469","Pv__E1amE9nj_jOYrAoKXw","Max Sports Grille",-111.928,33.4805,"Scottsdale",41,3.64705882352941,3.23529411764706
+"470","kWR0gFb8G08bezy_Uj4GsA","Chronic Cantina",-111.939,33.4243,"Tempe",67,3.35714285714286,3.32142857142857
+"471","NAkRjPhS4yCD5trp0dY-bQ","Saddle Ranch Chop House",-111.926,33.4991,"Scottsdale",170,4.93333333333333,3.49333333333333
+"472","VhraACjnyT90dKMCtxdl1A","Temple Bar Sports Grill",-111.862,33.6417,"Scottsdale",78,4.71428571428571,3.57142857142857
+"473","ECHH_ULCOFTQow72dJHSvA","Philthy Phil's",-112.047,33.4817,"Phoenix",15,2.57142857142857,4
+"474","L7xHcco1yNpWkVlsv4lODQ","RT O'Sullivan's",-112.185,33.639,"Glendale",40,4.26666666666667,3.8
+"475","oROwok1zOHj5Yt2tPIC5hQ","Hell's Half Acre",-112.262,33.5333,"Glendale",42,3.16666666666667,3.33333333333333
+"476","U2C1t0sqK_3hMFEs67MBLQ","Club Forbidden",-111.933,33.4956,"Scottsdale",11,-1.8,2
+"477","At3-UbbYlmBAXYt1edegrQ","Fine's Cellar",-111.929,33.4976,"Scottsdale",18,11.2222222222222,3.33333333333333
+"478","sxQiL_xBP0AuTWVWEQ9Lzg","Roadrunner Lounge",-111.909,33.486,"Scottsdale",17,1.16666666666667,3.83333333333333
+"479","kK4AzZ0YWI-U2G-paAL7Fg","Crust",-111.909,33.5381,"Scottsdale",180,5.25609756097561,3.96341463414634
+"480","oB-vwbo10DIjK01Zakp39A","Stone Rose Lounge",-111.916,33.6446,"Scottsdale",26,5.42857142857143,3.28571428571429
+"481","BpSLpzq_NRYghGSsb10G3A","Tim Finnegan's Irish Restaurant and Pub",-112.12,33.5694,"Phoenix",147,4.62121212121212,4.04545454545455
+"482","cLojUtqkFpVIHFEvA_5Atw","The Breadfruit & Rum Bar",-112.072,33.4557,"Phoenix",353,6.15032679738562,3.54248366013072
+"483","NleiJA9dpfKjhxe0cCD1MA","Tastings Wine Bar and Bistro",-112.341,33.468,"Avondale",6,5.33333333333333,2.33333333333333
+"484","IGrp61aiyR-PtL581brrcg","The Side Door Corner Store",-111.91,33.4863,"Scottsdale",65,4.36666666666667,4.16666666666667
+"485","qNoNkF1yJctEs3t40VkX4w","Blue Adobe Grille",-111.84,33.4184,"Mesa",288,4.83739837398374,4.08943089430894
+"486","FxKXpNvGoyLmipYQFDf5aw","D'Vine Bistro & Wine Bar",-111.865,33.2477,"Chandler",93,5.26315789473684,3.71052631578947
+"487","SRR_pK64qstLry2A9XujVQ","Icepics Video Bar",-112.015,33.466,"Phoenix",20,5.36363636363636,3.81818181818182
+"488","48GT-uIRnHp3rHvdRsgC_Q","Digestif",-111.927,33.4995,"Scottsdale",54,7.03703703703704,3.40740740740741
+"489","RmA5zN-Bs89lsTuY6v8W3Q","Pearl Sushi Lounge & Bomber Bar",-111.922,33.4973,"Scottsdale",157,4.52112676056338,3.28169014084507
+"490","E4Q-78EG6f2aRv7zGQLuAg","J Chew & Company",-111.924,33.4932,"Scottsdale",4,-1,3
+"491","A3xyx-Y_-t3TwBD9E--Zzw","Patties",-111.926,33.4944,"Scottsdale",111,2.02173913043478,3.6304347826087
+"492","omUssnJCKySc2H4201p3tA","Bar 1",-112.048,33.491,"Phoenix",27,2.45454545454545,3.63636363636364
+"493","nS9Dgj0a5o4Et80jFXBlrw","Martini Bistro",-112.012,33.4363,"Phoenix",3,2,4
+"494","UOLoBdnMv0Nsxdxe8xKbYQ","Baer's Den",-111.926,33.4147,"Tempe",39,4.46666666666667,4.2
+"495","66XZYUBswb9K12I1FVVi7Q","McDuffy's Sports Grill",-111.828,33.3176,"Chandler",21,2.66666666666667,2.55555555555556
+"496","YQvg0JCGRFUkb6reMMf3Iw","La Bocca Urban Pizzeria + Wine Bar",-111.94,33.4234,"Tempe",497,6.37558685446009,4.00469483568075
+"497","rRe-c9IX_o3OUuqkC_exDQ","Bleachers Sports Grill",-111.998,33.3067,"Phoenix",27,2.33333333333333,3.22222222222222
+"498","P4FXm3wP1MHbel8mA4iAow","Kirk's Sports Grill",-111.839,33.4154,"Mesa",11,0.666666666666667,2.66666666666667
+"499","tS12t_uuiCGAryiNaRmF9w","Home Turf Bar",-112.007,33.4355,"Phoenix",26,-0.181818181818182,2.54545454545455
+"500","wOvAbdVYDaguotpdSALsfg","Hooters",-111.94,33.4253,"Tempe",65,0.896551724137931,2.51724137931034
+"501","fkNFdhg5QvsgXFLTlwTlzA","Lyte Lounge & Bistro",-111.921,33.5014,"Scottsdale",10,7.4,3.4
+"502","jIrWRIq_iGch60qkOvjdPw","70's Shop & Hookah Lounge",-112.065,33.5099,"Phoenix",16,6.875,4.5
+"503","HwXHXTA8Q7zUYkLMh5b96A","Closing Soon Saloon",-111.935,33.4829,"Scottsdale",6,2.33333333333333,3.33333333333333
+"504","3pFyhcGd4YykGI6tf07hmQ","Cin-Cin Restaurant",-111.923,33.5013,"Scottsdale",6,9.66666666666667,4
+"505","gcMy0EtTlaR4r5Jgqt8Kow","PHX Night Club",-112.072,33.4484,"Phoenix",13,2.4,2.2
+"506","ulA3iI3YQGJWn6cfrpty3g","Suite 301",-111.94,33.4255,"Tempe",26,5.7,3.5
+"507","Pq91OM8RI_Rcr6PpXQajsw","Salty Senorita",-112.228,33.6346,"Peoria",130,1.86,2.72
+"508","M9H8mz7D16W6VVCRO8OgAA","The Shout House",-112.261,33.5309,"Glendale",93,3.05405405405405,3
+"509","sOvmVhQqKqJus67S10jw0g","Cellblock Phoenix",-112.061,33.4947,"Phoenix",3,-1,3
+"510","FdAi2yvDJC1LPZOLhaoo6w","Islands Restaurant",-112.276,33.4643,"Avondale",75,3.57575757575758,3.60606060606061
+"511","j7_lgtKqdtNCzf-Jk9jyrA","D'Arcy McGee's",-111.904,33.433,"Tempe",77,2.82857142857143,2.48571428571429
+"512","0WI0ydH2HtFxFswYXhE--w","Nakama Sushi Restaurant & Lounge",-112.344,33.4632,"Goodyear",118,4.71428571428571,3.77551020408163
+"513","Sn9Nv3r3Bg8602KwuDw0lA","Overtime Lounge",-112.187,33.5148,"Glendale",3,0,4
+"514","qb4PzVr19bXXLBf71dd5kQ","Dukes Sports Bar & Grill",-111.918,33.4661,"Scottsdale",151,3.01515151515152,3.03030303030303
+"515","Oqm8u_eI_LVXOMAJ4wzP9g","Heart and Soul Cafe",-111.979,33.7985,"Cave Creek",129,3.45454545454545,3.74545454545455
+"516","fM1IIa5mRAVoS10l0aFT1w","Lis Doon Varna",-112.237,33.633,"Peoria",39,3.125,3.0625
+"517","TwMfahsPHFnkLiqqvyalAQ","R T O'Sullivan's",-111.854,33.3933,"Mesa",44,2.94444444444444,3.16666666666667
+"518","RdMnnZDQQxPPhhKEDkjGmw","The Tasting Room",-112.321,33.7413,"Peoria",12,6,3.4
+"519","h0AZ9oNnaKa5tS0R2qWRgQ","Grazie",-111.866,33.6569,"Scottsdale",15,9.25,4.5
+"520","qy7NtAyd7SXXPM0H44XVAg","Applebee's",-112.033,33.3784,"Phoenix",27,-0.0909090909090909,2.18181818181818
+"521","UPm6y8qsD6l-cX_fxl0SPQ","Retro Bar",-112.015,33.5973,"Phoenix",5,4.33333333333333,3.66666666666667
+"522","kSWu7MCwCTjqsmRzrnx92A","Native Grill & Wings",-112.263,33.5406,"Glendale",67,0.64,2.04
+"523","DGtOkc0KNTyK8rDkmsPNYw","The Keg Steakhouse + Bar",-111.907,33.4326,"Tempe",187,7.24675324675325,3.84415584415584
+"524","DL8sIhW5Ew7dXvYxEOj9TQ","One Eyed Dog",-111.918,33.5015,"Scottsdale",4,13,3
+"525","WiAY7lyT-DC7Zk3StMMp0g","Tilted Kilt Pub & Eatery",-111.789,33.3806,"Mesa",38,2.52941176470588,3.05882352941176
+"526","Fg5VkQsHRm7V1Hq9GEsUBg","Chili's Grill & Bar",-112.124,33.5796,"Phoenix",39,2.88235294117647,3.17647058823529
+"527","JM6X0PJBcMkAjOuZqMaZsQ","Fleming's Prime Steakhouse & Wine Bar",-112.269,33.552,"Peoria",124,7.0188679245283,4.20754716981132
+"528","vzEd_dKnAtBQPyuNCOb43Q","Applebee's",-112.171,33.3779,"Laveen",48,-0.476190476190476,2.19047619047619
+"529","1M4oczf2lmkdgbrJ3J7OqA","Christopher's and Crush Lounge",-112.029,33.5115,"Phoenix",186,8.03658536585366,3.8780487804878
+"530","PejTHpMkh8sJZGdGaZuPpw","Applebee's",-112.119,33.6398,"Phoenix",25,1.91666666666667,3
+"531","tiLDQO66G69FBHdnndLUAg","The Gym",-111.539,33.1372,"Queen Creek",34,2.2,2.46666666666667
+"532","exzjKPVP7M5WcZDuZ21sQg","Whip Lounge",-111.94,33.4257,"Tempe",6,-0.333333333333333,2.33333333333333
+"533","9ziO3NpoNTKHvIKCBFB_fQ","District American Kitchen and Wine Bar",-112.07,33.4516,"Phoenix",273,6.5,3.5593220338983
+"534","Nm9_4UEQgZ8nKTtgXKTNPQ","Tilted Kilt Pub & Eatery",-112.234,33.6369,"Peoria",103,2.10526315789474,2.65789473684211
+"535","q6722YLut6rm_r2fFZbsvQ","Bogeys Grill",-111.928,33.3629,"Tempe",54,5.8695652173913,3.82608695652174
+"536","cBpJIOrVXotDI0XAZH_k0g","Yard House",-112.261,33.5341,"Glendale",362,5.21232876712329,3.94520547945205
+"537","fFlMAm0RBdfzrDfpicTPJg","Buffalo Wild Wings",-111.691,33.3857,"Mesa",50,2.61904761904762,3.28571428571429
+"538","52QtjHlHoa7V611bOvv1aw","Sushi Roku",-111.924,33.5015,"Scottsdale",227,6.28,3.5
+"539","4NpEP2sTOxm4Cw1SuXuGRQ","Double Overtime Sports Grille",-111.687,33.3751,"Mesa",3,7,4
+"540","bNVmqbrc9WkBoIAuNxDqqQ","Dark Horse Sports Bar & Grill",-111.926,33.3195,"Chandler",24,3.5,4.08333333333333
+"541","YKOvlBNkF4KpUP9q7x862w","The Mission",-111.924,33.4923,"Scottsdale",908,6.65934065934066,4.15659340659341
+"542","6imLt53br7SJ3av07jjH7w","Hanny's",-112.073,33.4492,"Phoenix",466,5.51010101010101,3.62626262626263
+"543","p5ReAGpy8zqtrUtAXQnD-Q","Benchwarmers Grill",-111.684,33.3999,"Mesa",3,-1,1
+"544","uyQ0mDz0OKEgUkBKWIl3og","Satara",-112.235,33.6354,"Peoria",107,4.89583333333333,3.29166666666667
+"545","w9KHEhv4NzomT7n46ke-jA","Harry's Lounge Tempe Mission Palm's Hotel",-111.939,33.4258,"Tempe",12,4.83333333333333,3.66666666666667
+"546","9OPheVf5o8sRcRHxJDl4-A","SideBar",-112.083,33.4653,"Phoenix",297,5.55555555555556,4.16666666666667
+"547","vm9axJ4kMtJNns25FalL6w","FuNuGyz Sports Grill",-112.24,33.6112,"Peoria",52,2.72727272727273,3.59090909090909
+"548","F1qVJwZrwzHc0OjolMPK_g","Irish Republic",-111.842,33.3028,"Chandler",144,1.83333333333333,2.86666666666667
+"549","-tBiXT917wKlr6n9wSqViw","The Keg Steakhouse + Bar",-111.742,33.3073,"Gilbert",138,5.8,3.81666666666667
+"550","wH9WtaTlrRawH_IpK90RPg","The Lodge",-111.92,33.5009,"Scottsdale",216,4.94623655913978,3.78494623655914
+"551","jCaQauhwHFyjOSlCutqUnA","Native Grill & Wings",-112.166,33.3789,"Phoenix",58,1.04761904761905,2.38095238095238
+"552","Je8QTq9npdNeQLEMEgw8Zg","Brix Wine Spot",-111.93,33.8315,"Cave Creek",17,6,4.28571428571429
+"553","e8FMAuTswDueAlLsNyLhcA","Daily Dose",-111.926,33.4942,"Scottsdale",537,5.30837004405286,3.99559471365639
+"554","ekguRa1QybpUaMHqc5vmAw","Antars Sports Bistro",-112.266,33.5083,"Phoenix",15,5.66666666666667,4
+"555","8GAQrwcsaR3axffTTqqS2Q","Cellar 13 Wine Bar",-111.924,33.8259,"Carefree",26,5.81818181818182,4.27272727272727
+"556","IoxqaBNvzKGuVtaYe6g0Cw","Cherry Bar",-112.057,33.5083,"Phoenix",12,4.42857142857143,3.14285714285714
+"557","TOYdUCIQzl3HUJnvTPEjAQ","The Detour Bar and Grill",-111.952,33.3049,"Chandler",6,1,3.33333333333333
+"558","PfFR1wywNe0c78pfq7JgJA","The Door",-111.928,33.4411,"Tempe",5,5.5,3.5
+"559","tdcjXyFLMKAsvRhURNOkCg","Old Town Tavern",-111.924,33.4932,"Scottsdale",118,3.92857142857143,3.94642857142857
+"560","-9pVS__IliMA2aNEYzrQrg","American Junkie",-111.92,33.5002,"Scottsdale",141,2.10344827586207,2.98275862068966
+"561","LuGSxdxaFnSFadpNV6uxZQ","Avalon",-111.914,33.4648,"Scottsdale",87,5.71052631578947,3.57894736842105
+"562","vBDVxjMtXzZ8GUhV-1L3Jw","Chili's Grill & Bar",-111.978,33.6034,"Phoenix",37,3,2.85714285714286
+"563","aqoRViIivCPW4uOlyBvuWQ","WineStyles",-112.271,33.5515,"Peoria",5,4.66666666666667,3
+"564","6VpBO3WUToqfFQYEXnmD2A","Applebee's",-112.231,33.6378,"Peoria",27,0,1.91666666666667
+"565","rn1AwDcGftmxlvmu5K99eg","Thunderbird Pub",-112.183,33.6223,"Glendale",3,8,5
+"566","J7DYRCtU9Tdtja5c7k1sjQ","Buffalo Wild Wings",-112.359,33.6392,"Surprise",76,2.02777777777778,2.66666666666667
+"567","8lHJm7hAlfsUNbVb3YaSMA","Hob Nob Sports Grill",-111.966,33.3055,"Chandler",41,3.75,3.875
+"568","eKnzv7IzDy8PUEauA8PMZg","Taylors Tavern",-112.03,33.6284,"Phoenix",3,6,4
+"569","14K90G-hbfk795NY7cKxMA","Blue 32 Sports Grill",-111.757,33.3073,"Gilbert",169,4.48484848484848,4.13636363636364
+"570","ttLtsY1S2Angj6hvEdzwDQ","Blue Martini Lounge",-111.963,33.6753,"Phoenix",167,3.56521739130435,3.27536231884058
+"571","TBfOrA3_4u38rFrF7LwU0A","The Kitchen",-111.926,33.5674,"Paradise Valley",34,5.61111111111111,3.77777777777778
+"572","YrJm6ddhEnUlAuCn-7scyA","The Living Room",-111.924,33.5022,"Scottsdale",23,2.1,2.4
+"573","FeI75xIG8PF_XZ6P80gLBQ","The Turf Public House",-112.072,33.4559,"Phoenix",173,5.08064516129032,3.54838709677419
+"574","SG-bV3OZizne2MZ-zQSmRg","MBar",-111.964,33.5388,"Paradise Valley",20,5,4.22222222222222
+"575","BblCFCBYOJxU-tbvMDXuTQ","Applebee's",-111.696,33.3935,"Mesa",23,2.2,3.2
+"576","qnrIe1WDzA27CgriJcpgvw","Wright Bar",-112.03,33.5161,"Phoenix",10,5.25,4
+"577","wLrfoH5YC8qQMTCQVpO-NA","Arena Sports Grill",-112.042,32.9785,"Maricopa",12,4,3.5
+"578","jZ58NvLSZ6oVYlRta1zUNQ","All Stars Sports Bar",-112.012,33.4363,"Phoenix",23,2.4,2
+"579","xxYiSZgmwE-9-quy8kkHEQ","Banzai Cowboy Sushi & Martini Bar",-111.89,33.673,"Scottsdale",8,8,4.4
+"580","d06ZIF5TeK5j_Pii7_LmXA","Teakwoods Tavern and Grill",-112.045,33.0712,"Maricopa",19,4.77777777777778,3.55555555555556
+"581","3n9mSKySEv3G03YjcU-YOQ","Postino Central",-112.074,33.5126,"Phoenix",659,5.47482014388489,4.34892086330935
+"582","HpVjTlrHweEn6aitDM3eVQ","Sunset Beach",-111.922,33.4939,"Scottsdale",22,4.25,3.125
+"583","DenHJrZ-jIZWsy1_PeAG9g","Old World Brewery",-112.076,33.6804,"Phoenix",9,6.5,4
+"584","VxZU1FsoL7YJhiQ1O3S8bQ","Studio Vino",-111.911,33.3614,"Tempe",34,3.875,3.375
+"585","FFdlPSZCGgTdg1CAfrlvlw","Native Grill & Wings",-112.053,33.3052,"Phoenix",36,3.73333333333333,3.66666666666667
+"586","SR-rvqMK70EilKn5_RH54Q","Fuego Bar and Grill",-112.256,33.4506,"Tolleson",12,-0.4,2.6
+"587","laxWwc9bSsNVXR0EYW_VmA","Rita's Kitchen & R Bar",-111.965,33.5341,"Scottsdale",43,8.46666666666667,4.4
+"588","RqbSeoeqXTwts5pfhw7nJg","Dos Gringos",-111.858,33.3266,"Chandler",63,2.76190476190476,3.14285714285714
+"589","-sC66z4SO3tR7nFCjfQwuQ","Gallo Blanco",-112.079,33.4914,"Phoenix",924,5.55670103092783,4.11082474226804
+"590","mbpDk_uvYwH2ZPo8LoJYxg","Toby Keiths I Love This Bar & Grill",-111.866,33.4369,"Mesa",179,2.7125,2.65
+"591","CrTaRYxxxS2WGadvydo6yQ","Barney's Boathouse",-111.936,33.4223,"Tempe",13,1.2,2
+"592","9U7_UWXXJZOW14L0kAdCNA","Midnight Room at Mondrian Scottsdale",-111.924,33.4945,"Scottsdale",3,0,5
+"593","QQ0eRMhskJh3mWHVQN7ALg","Tailgaters Grill",-111.722,33.2668,"Gilbert",76,0.67741935483871,2.06451612903226
+"594","MXOdsPTLQPsQK9hUq01DWg","Arcadia Tavern",-111.978,33.4941,"Phoenix",289,4.49180327868852,3.48360655737705
+"595","DK-SRzWGFPykx4pIvsF6_A","Sammy's Sports Bar and Grill",-112.238,33.5378,"Glendale",12,2.5,2.75
+"596","_ZyFytyHTuYJoZgwj7yitQ","Clancy's Pub",-111.918,33.5015,"Scottsdale",44,2.65,3.4
+"597","FrPm9l_CmSwBe8TCEiQnUg","Crush'd Wine Bar and Market",-111.928,33.611,"Scottsdale",6,6,5
+"598","yWhxRNWjNTFq6vpvTJJF7w","Angels & Outlaws",-111.931,33.5832,"Scottsdale",3,15,4
+"599","zFJlGyf9maOrBIgttEFp2w","Tiburon Restaurant & Flamingo",-112.411,33.5502,"Litchfield Park",20,4,3.22222222222222
+"600","eQX9DwovKIwB5FncvOMhMQ","R.T. O'Sullivan's",-111.688,33.3849,"Mesa",31,3.25,3
+"601","KeZsJLLMOSXNAVNnu7mMZA","Stadium Club",-111.859,33.3199,"Chandler",42,2.89473684210526,2.89473684210526
+"602","IanyHrzHB6VHemc5C2Rv6g","House of Cigars",-111.805,33.365,"Gilbert",16,5.83333333333333,4.66666666666667
+"603","GeHwru6TVDyVErFc92Nn2w","Central Grille",-112.074,33.5612,"Phoenix",10,10.3333333333333,3.66666666666667
+"604","k6PuJ964NF2NEoXoOg0ijA","Caps Sports Grill",-112.097,33.6765,"Phoenix",36,5,3.6875
+"605","KVYSUfN89b-nih-_9HhF6g","McFadden's Restaurant & Saloon",-112.261,33.5336,"Glendale",175,-0.171052631578947,1.59210526315789
+"606","xsSnuGCCJD4OgWnOZ0zB4A","Hungry Monk",-111.873,33.3066,"Chandler",212,4.83333333333333,3.7
+"607","cpk6gve6__5MkrvvEpM0rQ","Jersey's Tavern",-111.944,33.3198,"Chandler",22,5,3.3
+"608","crSme9ZoLQNMtRGxv0htTw","Majerle's",-112.347,33.4634,"Goodyear",63,5.16666666666667,3.70833333333333
+"609","YWQX2WMzPfkQPdV_nELx4A","Rainbow Cactus Saloon",-112.03,33.6284,"Phoenix",11,3.25,4
+"610","joVeXwNk2FxderSV7NlCRA","The Fieldhouse Bar & Eatery",-111.755,33.3208,"Gilbert",8,-2,3
+"611","zAoFrUwRVdSrvYWNB5e5Jw","Taberna Del Tequileria",-112.002,33.4374,"Phoenix",65,0.96,2.2
+"612","DBV7uKGuKyY8aLc9UuSzng","Goat Head Saloon",-111.84,33.3881,"Mesa",20,0.111111111111111,3
+"613","ZztUsJyGDwPySepmXRG13g","Dave's Electric Brewpub",-111.935,33.4252,"Tempe",50,6.04,3.16
+"614","ET9F32B8mz3q8lNmtDMlcQ","Zipps Sports Grill",-112.002,33.4949,"Phoenix",114,3.22448979591837,3.3265306122449
+"615","PDjWoUsd8YQQ9_5Ydc4j_Q","Vintage Lounge & Grill",-111.94,33.4259,"Tempe",5,2.33333333333333,2.66666666666667
+"616","JKMGWsZVdKrZ841foAMM_Q","Sandbar Mexican Grill",-111.966,33.3203,"Chandler",164,3.61764705882353,2.97058823529412
+"617","Kak44EXG-KpTGouZJ4xoFA","Escape Lounge",-111.891,33.6721,"Scottsdale",11,5.33333333333333,4.33333333333333
+"618","u8roVM7HO9Oiah2dNBHXrA","Grapes",-111.923,33.5815,"Scottsdale",21,2.55555555555556,3.33333333333333
+"619","8JJ6qdybzKbZURZvzwnQUA","Westside Les's",-112.202,33.5672,"Glendale",3,2,3
+"620","V5QdxePG-pGPXVPHSLLM9A","Urban Beans",-112.065,33.4886,"Phoenix",162,5.28787878787879,4
+"621","Fq1mqtxs32EkSRx8RZ7dSg","Nate's Third Base Pub",-111.875,33.3194,"Chandler",29,2.92307692307692,2.53846153846154
+"622","H-pXhtIE-rRfHiusL685ng","Taste of Tops",-111.945,33.4217,"Tempe",86,4.90909090909091,4.33333333333333
+"623","bFIOaAXd7iv6Zvnqx7D71A","Devil's Advocate Bar & Grill",-111.924,33.4217,"Tempe",91,4.725,3.675
+"624","yjhhCSSWSr3CwUL_XHokpg","Howl at the Moon",-111.921,33.5386,"Scottsdale",18,4,4
+"625","c5mGzf4ovtEglIzlXsL6rA","Connolly's Sports Grill",-112.116,33.7978,"Phoenix",46,3.4,3.45
+"626","gIIZfrFSf3S4fJ_w-7HqUQ","Crosswoods Indoor Golf",-111.948,33.3061,"Chandler",3,0,4
+"627","ziaSXim-Om_a62V7X0GSpQ","A-Town Grill & Eatery",-112.003,33.3175,"Phoenix",9,2.75,2
+"628","Jk6PigLJDvD5LYsh9h-i4w","Four Kings Central",-112.076,33.5097,"Phoenix",3,1,4
+"629","6rrtlv2s7W01U2fc9elKZw","JJ Madisons",-111.685,33.4239,"Mesa",45,3.85714285714286,2.9047619047619
+"630","qDekodPPD6hvaxqqWasudA","Fat Willy's",-111.743,33.3837,"Mesa",42,2.23529411764706,3.17647058823529
+"631","gtVQ_gwug7QQ4MW72T4jxA","Rips Bar",-112.047,33.4838,"Phoenix",58,4.20833333333333,3.54166666666667
+"632","xqO1fp2zuxeeYjPeGP2Eaw","Brad's Place",-111.982,33.3482,"Phoenix",22,5,3.88888888888889
+"633","ySOaDRUXr8ilrWAdjuKAyw","O2 Lounge",-112.234,33.6533,"Glendale",21,2.28571428571429,3.57142857142857
+"634","n3kfs4IMPijyhiNg7S0Bzg","College Dropouts",-111.935,33.4246,"Tempe",3,5,5
+"635","y3BaMdz1A_Bd6xYLquh5gQ","Tonic Tavern & Kitchen",-111.899,33.3058,"Chandler",43,4.3125,3.6875
+"636","SXVI_RMuNWEoXDXlgtRfiw","Il Vinaio",-111.839,33.4155,"Mesa",92,5.32432432432432,3.89189189189189
+"637","s1dex3Z3QoqiK7V-zXUgAw","5th and Wine",-111.929,33.4976,"Scottsdale",407,6.65340909090909,4
+"638","9dopZKjYiKwPiw7kEQsEag","Down Under Wines & Bistro",-111.821,33.3359,"Gilbert",73,4.46875,3.09375
+"639","q9WaFYhlOZCrfXJQTG5t_Q","The Living Room",-111.884,33.2612,"Chandler",205,4.77906976744186,3.58139534883721
+"640","O210DMndcpDAkLDBmAtv-A","Eddie's Pizza And Lounge",-111.918,33.415,"Tempe",35,2.27777777777778,3.05555555555556
+"641","vwZ15OkVO6PemAe87k0M-Q","Mabel's",-111.93,33.4933,"Scottsdale",210,5.77659574468085,3.86170212765957
+"642","bmsS7NgF6uYFkmoUaJuh_g","Capitol Sports Lounge",-112.098,33.4511,"Phoenix",3,8,4
+"643","txnCvfN26q_k4ICowNpigg","Augie's Sports Grill",-112.395,33.4565,"Goodyear",55,5.95652173913043,3.8695652173913
+"644","4Ry1LK-lfxL-2Az9nUSZkQ","Sage And Sand Grill",-112.357,33.5366,"Glendale",16,2.85714285714286,4.28571428571429
+"645","njd_x0C4UlO7HWvsOmg8yw","Red Revolver Lounge",-111.924,33.4998,"Scottsdale",75,3.48484848484848,3.15151515151515
+"646","FS6GzxtCTxYVHXfVRhhwVQ","Kimmyz on Greenway",-112.187,33.6261,"Glendale",22,3.55555555555556,4.11111111111111
+"647","B_1LLEKSddI0hvOuB6S6VQ","Robert Emmets",-112.186,33.5306,"Glendale",12,4,3.6
+"648","Ew2JBmTFhGTm6Uk6WMc8RA","Erin's Sheppards",-112.015,33.5973,"Phoenix",3,3,3.5
+"649","T0MVcmAYTrID2kR0KkFLZg","Caravan",-112.091,33.509,"Phoenix",3,4.5,3
+"650","Q2u3sUNNDHfPSgoj_V4uIw","McCool's Bar & Grill",-111.927,33.3202,"Chandler",8,3.2,4.4
+"651","yloVWlTVzXFcC4k3pUJD6w","Tap House Bar and Grill",-111.716,33.6056,"Fountain Hills",8,8.5,4.75
+"652","C51OyHyQUZfGom7Rb5FV8A","Toso's Bar and Restaurant",-112.11,33.6541,"Phoenix",20,4.71428571428571,3
+"653","Mppd8C2_k4MuYrRweweOWA","Bananas Ramas Restaurant and Sports Bar",-112.265,33.5359,"Glendale",3,-3.5,1
+"654","7K3xiP-5sj_x3QWHlIFFxQ","Native Grill & Wings",-111.599,33.3796,"Mesa",55,2.04,2.84
+"655","SRaXY_h-PnoVkNamuGzAdQ","Hooters",-112.121,33.64,"Phoenix",10,1.33333333333333,2.5
+"656","lr9g60tGRMHkU4xYiLYdkw","Mirage Sports Grill",-111.551,33.4124,"Apache Junction",6,3.5,4.5
+"657","GANrt-tCMcQTGS9x2zCu3A","Exit 7 Bar & Grill",-112.231,33.5375,"Glendale",4,2,2.66666666666667
+"658","m-bKBEEoH4IGkvoqg1vmhA","Al Omda Hookah",-111.95,33.4077,"Tempe",19,4,3.625
+"659","G0upqP1T9xsAgbSFV_PDXQ","Pumphouse II",-111.992,33.4663,"Phoenix",4,-1,3
+"660","TsD1cUoAas0Lv0UtT9-sdQ","Buffalo Wild Wings",-111.898,33.3057,"Chandler",79,0.967741935483871,2.70967741935484
+"661","N80E9zoWEpHhi4kH2eKAsw","Bar North",-111.926,33.6243,"Scottsdale",37,6,4.07142857142857
+"662","NrqSPFwmv37bl4Qq2Dr9Ww","Nile Hooka Lounge",-112.168,33.5824,"Glendale",3,-2,1
+"663","Y5IwyffEF0MhRZxMheJ0pA","Robbie Fox's Public House",-111.94,33.4241,"Tempe",127,5.75471698113208,3.52830188679245
+"664","DTbZiYWiEdYjrDUibUMe4w","W xyz Bar",-111.924,33.4347,"Tempe",4,3,4
+"665","4juYmq_YpvdV8HZ1r0AWBw","White House",-111.927,33.497,"Scottsdale",21,4.75,3.875
+"666","QzMaVGGR4Eo5otfgOAxzjw","Urban Seven Martini Kitchen",-111.933,33.4952,"Scottsdale",34,6.06666666666667,3.4
+"667","g2MPIF4RRQgs_sk_7F-U8Q","Shotgun Betty's Rock & Roll Saloon",-111.923,33.4998,"Scottsdale",86,2.52777777777778,3.27777777777778
+"668","jwWyx8gEIhUNzBzyDzWjmQ","Waterfront Bar & Grill",-112.256,33.8528,"Peoria",15,2.28571428571429,2.57142857142857
+"669","r-a-Cn9hxdEnYTtVTB5bMQ","The Grind",-111.996,33.509,"Phoenix",335,5.32,3.67333333333333
+"670","O6sFd6C-FljVsnSWW8oESA","Fat Cat Restaurant and Lounge",-111.842,33.3025,"Chandler",6,1,4
+"671","C_eWAEOvkHZ_IZYGwjtpmg","Saddle Ranch Chop House",-112.261,33.533,"Glendale",197,2.25974025974026,2.71428571428571
+"672","sbsFamEj5wDxNAjUKrMcSw","RnR",-111.926,33.4916,"Scottsdale",455,4.49484536082474,3.42268041237113
+"673","-DGbZCnfEiHUy-ksKeJ72Q","Starters Sports Bar and Grill",-111.91,33.4133,"Tempe",21,3.09090909090909,3.27272727272727
+"674","NcAI7SE1SNlrOEfFg9Wzuw","Ghost Lounge",-112.074,33.4505,"Phoenix",32,1.91666666666667,2.75
+"675","JnpRIq3e3C8NxhmTLQNd0A","Onyx Bar & Lounge",-111.85,33.732,"Scottsdale",8,3,4.25
+"676","NrFnBSO-0m5aQWyA0yj9_Q","R Bar",-111.893,33.2985,"Chandler",4,3.5,3
+"677","ZrDPINvukk9TEhENJjqnIw","Native Grill & Wings",-111.688,33.3261,"Gilbert",25,1.46153846153846,2.46153846153846
+"678","7X1NE4ZcSq1tbFD8gH028A","Azucar Cuban Restaurant",-111.84,33.3889,"Mesa",14,2.28571428571429,3.57142857142857
+"679","M-KswR9gmh6C5VZq32OUSw","Rhythm and Wine",-111.916,33.6968,"Scottsdale",70,6.4,3.66666666666667
+"680","OdD1GuGNQ64ssJmMJ_D9RQ","The Duce",-112.074,33.4425,"Phoenix",301,4.912,3.608
+"681","XSVYjF-FW9EgsqOJO5UsWA","Versus Sports Grill",-111.886,33.5697,"Scottsdale",11,8,2.75
+"682","V7ConCFTkTSZVhI9s8BMXg","Wild Vines",-112.112,33.8581,"Anthem",35,6.69230769230769,3.38461538461538
+"683","9-cRrGH5WmZKQ_O6LtfSbw","The Lounge",-112.065,33.5755,"Phoenix",37,7.75,4.625
+"684","jawQZtL6i6wNYcD9pftGEg","Babe's Sports Bar and Grill",-111.724,33.3813,"Gilbert",25,3.54545454545455,2.72727272727273
+"685","LpsZQFtgBLkshxW2Y0AmEw","The Groves Bar & Grill",-111.79,33.3441,"Gilbert",66,2.45161290322581,2.93548387096774
+"686","CQHKoO91ivQJ9hFDCFdSSw","Jimbo's Good Times Grill",-111.7,33.4157,"Mesa",5,1.66666666666667,3.33333333333333
+"687","8Cg98L22BEcAD3gQq3QsPA","Gallagher's",-111.859,33.3359,"Chandler",21,3.375,2.625
+"688","TQesyMAzl8Zo8OOn8c9byA","Fat Willy's",-111.773,33.4233,"Mesa",18,1.2,2.9
+"689","QCxXYA13PtkD3wec47_r8Q","Primebar",-111.925,33.6228,"Scottsdale",89,6.08823529411765,3.55882352941176
+"690","h1kwVr1eTpBK0rWfcm5QSg","Buffalo Wild Wings",-112.114,33.7151,"Phoenix",109,2.04081632653061,2.85714285714286
+"691","9DsXB8T3UwBYiLPiLJJuNQ","Ernie's Restaurant & Bar",-111.924,33.5819,"Scottsdale",57,4.69230769230769,3.73076923076923
+"692","BXEynidJI3VSgjkuIFgZQg","Chopper John's",-112.026,33.4947,"Phoenix",20,2.77777777777778,4.22222222222222
+"693","mDtHcmIXbtv7J9N4HSsgcg","Donna Jeans Libations",-112.202,33.6384,"Glendale",7,4,4.5
+"694","dVRRT0zVk8eFNx0Wv6gMmg","Chili's Grill & Bar",-112.264,33.483,"Phoenix",6,1,3
+"695","BLQoL7ftkE3c2VagJM76dA","All American Sports Grill",-111.716,33.6038,"Fountain Hills",58,4.76923076923077,2.92307692307692
+"696","01cEFI5Pq_RyEwM3GSTopQ","Blue 32 Sports Grill",-111.93,33.5389,"Scottsdale",123,5.06,3.76
+"697","_OYlq2UoKPQO_ElqhC3a8w","Lucky Strike",-112.075,33.4475,"Phoenix",146,6.39393939393939,3.45454545454545
+"698","f67EBuoqqgW4h1OcG_K7kA","Legends Bar and Grill",-111.926,33.6378,"Scottsdale",7,5.33333333333333,3
+"699","T9P5upncD3Ngwe-kl-wljg","Ernie's Restaurant & Bar",-111.968,33.3165,"Chandler",22,4.66666666666667,2.83333333333333
+"700","Zv5doxmclMPbvw2XKF6OOg","Sugar Shack Sports Grill",-111.933,33.4957,"Scottsdale",15,8.28571428571429,4.85714285714286
+"701","PwxvN0SnAGPdqXdNEYVT3g","Bliss ReBAR",-112.068,33.4579,"Phoenix",343,5.82312925170068,3.80272108843537
+"702","_IwgdSjrIMwAcQdeLNhcZQ","Shadows",-111.869,33.5406,"Scottsdale",16,4.16666666666667,4.33333333333333
+"703","liJ7u970FYGtRTo5EOxvqg","Firehouse",-111.925,33.4989,"Scottsdale",93,5.17948717948718,3.30769230769231
+"704","fhMSRMGA_b8FcjupVTkgOQ","Smashboxx",-111.921,33.5013,"Scottsdale",68,2,3.34615384615385
+"705","LBV5CSdz7QcoOl46QInsvw","Uncle Bear's Grill & Bar",-111.875,33.277,"Chandler",101,3.95744680851064,2.97872340425532
+"706","__etvGuL2dh_a1LOT0gNYQ","Big Guy's Sports Grill",-111.982,33.6401,"Phoenix",49,5.27272727272727,3.86363636363636
+"707","zj2Olhf6zQGvm3DtCaEXew","Buffalo Wild Wings",-111.926,33.4236,"Tempe",112,2.5,2.78260869565217
+"708","E8qTgWBSel2Dg9gVKQViQw","Degree 270",-111.87,33.5402,"Scottsdale",29,5.36363636363636,3
+"709","9YUe5J_cPCBo_mL7-z9HCQ","Canteen Modern Tequila Bar",-111.941,33.4241,"Tempe",232,5.97029702970297,3.4950495049505
+"710","-h-q6zTIdPlkz9BDP11sBg","Seasons 52",-112.027,33.5102,"Phoenix",299,7.22222222222222,4.27777777777778
+"711","RjIpwtifHcykxPkIdPVExw","Diverti Bar and Grill",-111.94,33.422,"Tempe",19,2,2.81818181818182
+"712","kPy-9EH9on8P4VA98GA_9A","Fat Willy's",-111.62,33.3789,"Mesa",24,3.4,2.7
+"713","-_wk7WTa_--ZJWFF_i5v_w","North Central Sports Bar",-112.057,33.5532,"Phoenix",9,7.25,3.75
+"714","htmtU58z14Ih4p3jIbgIaQ","RUB Sports Grill",-111.879,33.3636,"Mesa",16,2.875,4.375
+"715","RIgrLi3Jvz8lwAi04Fi8CA","Amore Sports Grill",-111.892,33.6397,"Scottsdale",14,1.14285714285714,1.85714285714286
+"716","tf5qrrarVIVYOy0evKrayA","Tavern Grille Scottsdale",-111.89,33.5691,"Scottsdale",85,4.74418604651163,3.74418604651163
+"717","6dLihxk39LdNnTC4JMbA0A","Alchemy Restaurant at CopperWynd Resort and Club",-111.763,33.6054,"Fountain Hills",45,8.05,4.35
+"718","jsssdwELXUxNYhDco1Sbmg","Rocky Point Cantina",-111.923,33.4199,"Tempe",8,-0.75,1.25
+"719","VKNl2-aF4n1x7lPVyU-Mag","Spotted Donkey Cantina",-111.899,33.5562,"Scottsdale",111,6.23404255319149,3.68085106382979
+"720","FGTbFEyNmsPoDoD93T8iSg","Blondie's Sports Bar",-111.924,33.4243,"Tempe",27,0.615384615384615,2.46153846153846
+"721","futFqQlvBGRWyQ0bPdMQuw","Bricks Family Sports Grill",-111.687,33.3751,"Mesa",46,2.88235294117647,3.35294117647059
+"722","YJoph5UiUZ3BEb49vyFAuQ","Garage Wine and Tap",-112.048,33.5239,"Phoenix",169,4.20833333333333,3.5
+"723","fEKZ_IjfwtIuKIcuZzUJJA","Zayn's Hookah Lounge",-111.935,33.4798,"Scottsdale",14,5.83333333333333,3.33333333333333
+"724","AN_E1XKoXp05qP8_brlvtQ","Up In Smoke Hookah Lounge",-112.1,33.4885,"Phoenix",3,0,4.5
+"725","iyZh2ZgSGgDCWk8sP2sAFA","Babe's Sports Bar",-111.931,33.5832,"Scottsdale",7,1.33333333333333,2.33333333333333
+"726","gZ3GVh4aER2q6_UdA6fTKw","Janey's Cave Creek",-111.939,33.8336,"Cave Creek",53,6.2,4.4
+"727","AYPTLvxlCw2euajnglksTA","JD's Lounge",-111.969,33.5451,"Scottsdale",12,3.33333333333333,3.33333333333333
+"728","p5HEHFZwbztIkpI4ItbX2w","Dodey's Bar",-112.015,33.5973,"Phoenix",14,3.42857142857143,3.85714285714286
+"729","4YhVnd_oP889ESR1y_6qAQ","Fox Cigar Bar",-111.759,33.3074,"Gilbert",83,5,4.84210526315789
+"730","W0eocyGliMbg8NScqERaiA","Narcisse Champagne and Tea Lounge",-111.94,33.6072,"Scottsdale",99,3.5,3.23809523809524
+"731","uAUwNm5ZaM_sKKqz83iz7g","The Napoleon",-111.928,33.4994,"Scottsdale",5,13,5
+"732","INMlF39JiK9buYVNUR6O7g","The Playa II Bar and Grill",-112.012,33.5819,"Phoenix",6,1,2.33333333333333
+"733","T6hYDhIZAzPW98_OEbqOSw","The Handlebar Pub and Grill",-111.553,33.4155,"Apache Junction",75,3.4375,4.3125
+"734","XU5Fb3TosXDUJcNRWQM5cA","32 Shea",-112.013,33.5834,"Phoenix",269,5.70175438596491,4.31578947368421
+"735","6xbzPLkyRX1fmfKp6RE8XA","BAR 350",-111.926,33.4916,"Scottsdale",5,-2,1.33333333333333
+"736","9AHcq0KE451R5t723XSq8w","Denim and Diamonds",-111.674,33.4155,"Mesa",30,3.28571428571429,3.42857142857143
+"737","Pg8OPh1D2ws0xO-I-8ppoA","Upper Crust Pizza",-112.03,33.6711,"Phoenix",231,5.18811881188119,3.71287128712871
+"738","qRBeZAFiId0ainBtpFSGuQ","Public House Garage",-111.979,33.3309,"Phoenix",95,5.41860465116279,2.88372093023256
+"739","C-j3qKYqrrs8CrWz01AmXA","Salt Lounge",-111.926,33.6174,"Scottsdale",46,4.27777777777778,3.66666666666667
+"740","Xq9tkiHhyN_aBFswFeGLvA","The Arrogant Butcher",-112.073,33.4473,"Phoenix",678,5.15808823529412,3.86764705882353
+"741","MYj5f-QxtGeKlhVVx1RD4g","FilmBar",-112.071,33.457,"Phoenix",209,6.2258064516129,4.51612903225806
+"742","7Vqrh77SOYwZ3_AOK-TTiQ","Baja Beach Bar",-111.926,33.5819,"Scottsdale",4,2.5,4
+"743","eeFOXbXG7hSQi1ETNeJ1ZQ","Cactus Moon Sports Grill",-111.866,33.4353,"Mesa",66,0.193548387096774,1.90322580645161
+"744","MY0_6BAzQCu4sqXqwNEFfg","Mellow Mushroom",-111.94,33.4231,"Tempe",292,4.20967741935484,3.28225806451613
+"745","8W79MdW4IsQbKZWSBx3cRQ","Headquarters Lounge",-112.048,33.0584,"Maricopa",6,2,4.5
+"746","tBpcKHlBJTwRLq6Q2gv1KA","Tao Kitchen Asian Bistro",-112.24,33.6811,"Peoria",35,3.33333333333333,3.58333333333333
+"747","2VU7F1oqCxpVPVlvpwvacw","Barfly",-112.01,33.4356,"Phoenix",50,3.5,3.94444444444444
+"748","8hDXefyRmWfw_Q0J_HN13Q","Native Grill & Wings",-111.79,33.2763,"Chandler",65,1.92307692307692,2.76923076923077
+"749","FURgKkRFtMK5yKbjYZVVwA","Windsor",-112.073,33.5137,"Phoenix",620,6.8030303030303,4.14015151515152
+"750","qiFTZ7aJz-FXt1wz8YigAA","El Hefe",-111.922,33.5014,"Scottsdale",179,4.05194805194805,3.51948051948052
+"751","Paxv-eS5fc5AkABCkdX1pA","Gus's New York Pizza & Bar",-112.255,33.478,"Phoenix",42,1.16666666666667,2.77777777777778
+"752","Jv6kVPzvYqZIM3Dxhm7ZvA","The Handlebar Pub",-111.553,33.4155,"Apache Junction",4,5,4
+"753","wP5849J1DKB2KS3M6UwOAg","Spanish Fly",-111.92,33.4997,"Scottsdale",58,4.07407407407407,3.44444444444444
+"754","kgPjOtSeMd3CMdbnEmHbeQ","Majerle's Sports Grill",-111.922,33.5014,"Scottsdale",88,4.28947368421053,3.76315789473684
+"755","bNu-PVXtfyLE6A1qv9bDcA","Oasis Cafe",-111.923,33.5017,"Scottsdale",21,5.77777777777778,4
+"756","7kCrDBexvE7ykkO978uxFA","Halftime Sports Bar & Grill",-112.558,33.4342,"Buckeye",13,5.28571428571429,2.85714285714286
+"757","mXr-1rBHjaGGnqX4MgLctA","Crossroads Sports Lounge",-112.343,33.4567,"Goodyear",4,2.5,2
+"758","CuLdSn4wFwog-z2OMSwBCQ","Skunk Creek Flats",-112.121,33.7307,"Phoenix",29,2.46153846153846,3.61538461538462
+"759","lq5FwKJ3bt2XZNTkaVIU2g","Thirsty Cactus",-111.686,33.2851,"Queen Creek",15,2.42857142857143,3.28571428571429
+"760","shlAd7PLzWlQrkQ0uYcBBg","Thai Basil",-111.917,33.6987,"Scottsdale",64,3,3.79166666666667
+"761","UtbvcvXWLCZX75g_KtMW2A","Saddle Bronc Grill",-111.708,33.5879,"Fountain Hills",42,5.16666666666667,4
+"762","lUuJNwIaIz83awgyvI7oCQ","Native Grill & Wings",-111.858,33.2641,"Chandler",38,2.75,2.625
+"763","D9EW-5pB-FvG06IfMJZquA","The Mint",-111.921,33.5019,"Scottsdale",139,5.33333333333333,3.13333333333333
+"764","0MepUkozmPI0YQp8Bp7p8g","Hoookah Mania",-111.927,33.4426,"Tempe",20,3.625,3.875
+"765","AeMfb2FtQNnPXE9n92MDww","Coach & Willie's",-111.841,33.302,"Chandler",121,4.12765957446809,3.19148936170213
+"766","fP-BPL6iRu2tbcvlnjRshw","Copper Blues",-112.074,33.4475,"Phoenix",243,4.63636363636364,3.6969696969697
+"767","Cddi9xEIKfqqv0W0SWD4Kg","House of Brews",-111.805,33.3345,"Gilbert",23,3.8,3.7
+"768","NHy-HT-FI305jqgyeIWPCQ","Tempe Tavern",-111.908,33.4149,"Tempe",64,3.33333333333333,3.59259259259259
+"769","hZyl8ShUo-D0ahqJXTYWAg","Willy's Bar",-112.196,33.6386,"Glendale",6,4,3.5
+"770","B6DUg2krZFY3fCECiL_xvQ","The Harp",-111.757,33.3837,"Mesa",112,3.2962962962963,3.03703703703704
+"771","gVD9i8K92c8v9rl_cipeTA","The Big Red Wagon",-112.089,33.5634,"Phoenix",4,3,5
+"772","G4ZZHlp6CdYBZOirW2_PQA","Tilted Kilt Pub & Eatery",-112.073,33.4473,"Phoenix",170,3.36231884057971,2.57971014492754
+"773","o_OGTRgAHoSGPl7aCHbqnA","Wild Knight",-111.922,33.5007,"Scottsdale",35,-1.5625,2.1875
+"774","ous0x-3S_tJQOyel229Jgw","Lotus Bar & Grill",-111.886,33.5693,"Scottsdale",18,4,4
+"775","qw93CjlAZ6a4ff11Z-hF3Q","Crescent Ballroom",-112.077,33.4518,"Phoenix",294,6.36885245901639,4.40983606557377
+"776","C_3j5-s9p9JsMuP8xq0tDg","Terrace Restaurant",-111.568,33.1587,"San Tan Valley",6,5.66666666666667,3.66666666666667
+"777","POLbHvD9CEwVjQ1LfzpnBA","Last Drop at the Hermosa",-112.005,33.5182,"Paradise Valley",10,7.75,4
+"778","KDQqjVfqmLDwddpt3yKVNQ","The Heights Sports Grill",-112.238,33.673,"Peoria",36,4.25,3.5
+"779","Br9Ruk5yY9ui8OiKChWdgw","Sahara Nights",-111.925,33.4213,"Tempe",4,5,5
+"780","qfDYECGmZmc4ofVpXNyFJQ","The Casablanca Lounge",-111.928,33.4995,"Scottsdale",69,4.66666666666667,3.53333333333333
+"781","8n_YaIqhFivUDUxVuaoKDw","Limelight Dipping Bar And Grill",-111.926,33.4974,"Scottsdale",27,5,3.45454545454545
+"782","Yu1D1IlGUSNnsi6LiO7MNA","Monsterland Bar & Grill",-111.832,33.4155,"Mesa",74,4.79411764705882,3.73529411764706
+"783","W84OPgnAjdHq_cHapy0EKw","Nacho Mamas",-111.946,33.3767,"Tempe",25,4.8,3.3
+"784","H4N1vgxdPKozOqpW-5qI2w","Johnny Fox's Public House",-112.237,33.633,"Peoria",92,4.5,3.60526315789474
+"785","oMGLTTo2Tdizl6eo1EWOnQ","Barney's Boathouse",-111.923,33.4987,"Scottsdale",63,1.76923076923077,2.65384615384615
+"786","UmhTiNOKareQDP7D9aAnKw","T. Roosevelt's Tavern",-111.93,33.4966,"Scottsdale",72,6.46666666666667,4.03333333333333
+"787","4Zu4QUdbM2mIdBRZmbf5Gg","Cogburns",-111.757,33.261,"Gilbert",49,2.375,2.79166666666667
+"788","SIG1QNMpmlVZZJM15qUklw","Dollhouse",-111.921,33.5013,"Scottsdale",20,7.2,3.5
+"789","H1TpKMkMwPaHML5TY9OKlQ","Mary's Place",-111.961,33.413,"Tempe",3,1.5,3
+"790","kRjr0XGA_tGLhCa-1FSAig","Garlic & Shots",-111.927,33.3482,"Tempe",35,1.61538461538462,2.07692307692308
+"791","Rj5gyaRIIwDX_OJa1LlE4A","Chick Rotisserie & Wine Bar",-111.997,33.5098,"Phoenix",39,4.82352941176471,3.05882352941176
+"792","FCcFT610nQBVcRdY-devQA","Vintage 95",-111.843,33.3021,"Chandler",183,5.64,4.05333333333333
+"793","uoLKwJeH1rWeqUC0D1La2g","Caballero Grill",-112.359,33.4665,"Goodyear",149,3.71428571428571,3.31428571428571
+"794","UkaVmU1Mo_jMz9-SE1i_Hg","Rockbar",-111.927,33.4976,"Scottsdale",33,3.71428571428571,3.71428571428571
+"795","qyqOfpsAC5ooVROm7fB0jQ","Old Town Whiskey",-111.922,33.494,"Scottsdale",40,8.31578947368421,4.05263157894737
+"796","nUsD97mSvgpYKwmaMNKGHg","The Hub Grill and Bar",-111.666,33.3804,"Mesa",87,4.26829268292683,4.29268292682927
+"797","u9YPOYxDZHiO9Z1NUuzcIA","The Downside Risk",-111.925,33.5671,"Scottsdale",51,3.26315789473684,3.31578947368421
+"798","n0Whiyu35UDERF5kJbNpCQ","Old Towne Glendale Wine and Beer Bar",-112.183,33.5385,"Glendale",14,6.28571428571429,4.14285714285714
+"799","0CeEgarUoVP2Nq9s1Mn0Aw","Mad Dog Saloon",-111.807,33.3816,"Mesa",64,1.67857142857143,2.85714285714286
+"800","d0t_mDIQqtPatJx_4mlSvg","Scully's",-111.908,33.3774,"Tempe",97,6.6304347826087,3.76086956521739
+"801","zK3rCrFE_cgXCr9mDHBdXw","Urban Heat",-111.869,33.4146,"Mesa",3,3,4
+"802","1sNa5oW9ZYX8MbMFkx9LzQ","Jasmine Tokyo",-111.929,33.5827,"Scottsdale",209,4.84782608695652,3.95652173913043
+"803","aZFihxH7QGWeIXw8uw_xDg","Hooters",-112.221,33.4792,"Phoenix",19,2.75,2.125
+"804","8h3QGK6m5lZmIoNull8DGA","Citizen R+D",-111.928,33.4981,"Scottsdale",57,4.38461538461539,4.03846153846154
+"805","_TiX1DgK-5KGPp1Wwez95w","Marley's Restaurant & Bar",-112.388,33.6391,"Surprise",50,5.18181818181818,3.68181818181818
+"806","Oy-enf3ACnZYmE9f7vFCXQ","Scottsdale Ultimate Block Party",-111.927,33.4969,"Scottsdale",3,1,5
+"807","ayGGbc1wcqoI273epicUgA","Hooters",-111.857,33.3835,"Mesa",30,3.15384615384615,3.23076923076923
+"808","5o5MLNPmAeakGgdqeGyMvw","Cask 63",-111.926,33.5673,"Scottsdale",77,7.58064516129032,4.06451612903226
+"809","vlxMPuG6LYJ-c0yjd6AW3A","The Little Woody",-111.99,33.495,"Phoenix",106,4.28571428571429,4.23809523809524
+"810","7YL_vXkYJ6EyiQP98kDMWw","Diamond's Sports Grille",-111.828,33.4191,"Mesa",21,2.57142857142857,3.28571428571429
+"811","ne1tX7HaTjWyuhZqWiN0eg","Pink Rhino Cabaret",-112.003,33.4503,"Phoenix",15,0.5,3
+"812","CEswyP-9SsXRNLR9fFGKKw","Twin Peaks",-111.892,33.6294,"Scottsdale",163,3.16176470588235,3.17647058823529
+"813","1YYy56iVwF60VeAeqKrFNw","Catalina Sports Bar & Grill",-112.047,33.4816,"Phoenix",6,6,3
+"814","4CC4J_bepXOiWVS4CVN6NA","Baratin",-111.927,33.4978,"Scottsdale",24,9.45454545454546,4.45454545454545
+"815","MORHJ6sMdwkT8DXArbpSXA","El Ranchero Of Traditional Mexican Food",-111.935,33.4827,"Scottsdale",19,3.42857142857143,4.28571428571429
+"816","ss5gVggeSmAgMUeL65UvYw","Postino East",-111.79,33.3551,"Gilbert",396,5.53947368421053,4.38157894736842
+"817","6bEW1lUP4ICiSU8hsIL2tA","The Roadhouse Cafe",-111.681,33.4149,"Mesa",9,3.8,2.2
+"818","shpgZ07M-IBDwjz2cpjWiA","Calistro California Bistro",-111.925,33.5251,"Scottsdale",45,4.80952380952381,4
+"819","QG6YxzWWnuWp2Udq6d7d_g","Tilted Kilt Pub & Eatery",-111.979,33.5976,"Paradise Valley",57,2.78260869565217,3.04347826086957
+"820","GrVYU7eSBrjruL_ScqI28w","Beef 'O' Brady's",-112.359,33.6085,"Surprise",53,2.26086956521739,2.30434782608696
+"821","e9I1Z1RofzajO6-s9tKqKw","Gus's New York Pizza & Bar",-112.356,33.4645,"Goodyear",37,2.5,2.72222222222222
+"822","qpa0TX7hQFf059T0kFC7kQ","Amber Inn Cocktail Lounge",-112.15,33.5679,"Phoenix",3,-1.5,4
+"823","WnJ9xlxdJwMti7blz4d45w","CC'S Mesquite Broiler",-112.037,33.5981,"Phoenix",38,2.71428571428571,3.35714285714286
+"824","4bi6m2WWnSUnQzR4xLF5BQ","Admirals Club",-111.99,33.4373,"Phoenix",39,4.29411764705882,3.17647058823529
+"825","satUls0f8KqfXkKsdMfaWw","Cowgirls Bar & Grill",-112.34,33.4672,"Avondale",9,0.75,1.25
+"826","JqEuOIuAlx_aRuWedSr9dg","Flight Lounge + Bistro",-111.923,33.4972,"Scottsdale",8,9.5,3.5
+"827","0iJwRM7cw-LIdI97H4nDSg","The Zoan",-112.083,33.4987,"Phoenix",5,-0.333333333333333,1.66666666666667
+"828","8Fx-K9dIZz_buBZcEvkeRw","Social Tap",-111.924,33.4998,"Scottsdale",27,4,3
+"829","kuGQG_8i9P-4p9_Mym-G8Q","Cheers Tavern",-112.188,33.6386,"Glendale",12,13.2,3.2
+"830","9wN4QpzsaMej_mI_5FIKlA","Scottsdale Chapter DBD",-111.903,33.4773,"Scottsdale",3,-0.5,3
+"831","gFJtzwGmDTABRwL2F8GsSw","Del Frisco's Grille",-112.028,33.5091,"Phoenix",150,7.25396825396825,3.74603174603175
+"832","DojLUQOpfZWs9HynUuZJ4g","Sage Bar",-111.927,33.3048,"Chandler",42,2.82352941176471,2.82352941176471
+"833","xOlzK02DWzETeZ8HbiEB0A","Praying Monk",-111.926,33.4922,"Scottsdale",98,5.59090909090909,3.70454545454545
+"834","rBfHzhlqYSOXQaSSXFhHcw","El Santo Cantina + Patio Bar + Restaurant",-111.922,33.6222,"Scottsdale",56,5.63636363636364,3.72727272727273
+"835","EFSU5EPU8VsZmrjbTxjc4A","Astor House",-112.056,33.4728,"Phoenix",95,5.94285714285714,4.34285714285714
+"836","Xk3inJcuBGLhavUcdlINZA","Crudo",-112.004,33.4952,"Phoenix",210,6.26136363636364,4.54545454545455
+"837","cM7eoSC_HhfS2D5VkFVY-Q","Mad Hatter Brew Pub",-111.935,33.4252,"Tempe",25,0.9,2.2
+"838","PWG28q4JFOc8FiRBjnfCkA","Brat Haus",-111.926,33.49,"Scottsdale",364,5.29411764705882,3.8562091503268
+"839","nckQIGiiUxztAQ2Boo6Tlw","Ocotillo Sun",-112.014,33.4359,"Phoenix",5,-1.66666666666667,1.33333333333333
+"840","XGUrSgfo-ZN9Ib1pIPU-SQ","Uptown Alley",-112.356,33.6076,"Surprise",87,6.07692307692308,3.58974358974359
+"841","NTMpDwobR8BdSJroMngqng","Fuego Cantina",-112.063,33.6379,"Phoenix",36,4.26666666666667,3.13333333333333
+"842","mnolioXUSxcThapw_O4iNQ","Sky High Hookah Lounge & Smoke Shop",-112.117,33.5513,"Phoenix",9,3.66666666666667,5
+"843","v7OwbHgNgy_VQ9eP5FjvUA","Rehab Burger Therapy",-111.926,33.4915,"Scottsdale",618,5.68774703557312,4.27272727272727
+"844","XRdwAqzuG_SwVFFlOzLmEQ","Red Embers Bar & Grill",-112.356,33.6076,"Surprise",19,2.33333333333333,3.44444444444444
+"845","EJUaeaUcedPJd769_nG1pA","BTs Sports Pub",-111.927,33.6097,"Scottsdale",28,2.93333333333333,3.4
+"846","zPHXmaVhEr4FzfB8r-EcjQ","Detours Tavern",-111.91,33.4808,"Scottsdale",28,7.72727272727273,3.18181818181818
+"847","PQt8GULqftvPaAhu0ribTw","Great Eagle Bar & Grill",-112.433,33.6541,"Surprise",10,3,5
+"848","2RPFwqKLkDRa1_2M2bJ6Eg","Mad G's Grill & Tavern",-111.939,33.4074,"Tempe",16,4.625,3.5
+"849","MEKk3J63dU3GBDg9SHuq7A","Lustre Bar",-112.074,33.4472,"Phoenix",98,3.55263157894737,3.78947368421053
+"850","c38WumfKrvGkXO_qkCO8Wg","Gigino's",-112.382,33.4373,"Goodyear",10,9.66666666666667,3.83333333333333
+"851","fhJod2UVFSLL3cigU_AlWA","Conti's Bar & Grill",-111.684,33.4127,"Mesa",4,3,2.5
+"852","YAoutB_R_RaiwI3hKQ_TTg","Christina's Italian Restaurant",-111.689,33.3078,"Gilbert",8,10,3
+"853","5Isf5xz3rNZk0y79UE6uIw","Devils Den Sports Grill",-111.932,33.422,"Tempe",5,2,3
+"854","2qbajPD8M7PJlWWaHSRR5Q","The Reef",-111.847,33.3345,"Chandler",38,2.66666666666667,3.4
+"855","v96aR__oKt2aqT-azpcA6A","Phoenix All-stars Sports Bar & Grill",-112.014,33.4348,"Phoenix",6,1.5,2.5
+"856","bVhmUnhDE7qrrhcgldprcQ","Native Grill & Wings",-111.583,33.1805,"San Tan Valley",54,1.0952380952381,2.28571428571429
+"857","uiLRtEanRHD9hMldvnxoyA","Velocity",-112.032,33.4945,"Phoenix",4,3,4
+"858","GDmue1oJaem9ilywDtA4_A","Sochu House",-112.073,33.4791,"Phoenix",167,4.98461538461538,3.84615384615385
+"859","BOpzxHBVONZ414dHGvOLpg","Mos Eisley Cantina",-111.924,33.4747,"Scottsdale",6,-3.66666666666667,2.33333333333333
+"860","0FChuNtgjojqWvBzgfuTyg","Oceans7 Nightclub",-111.926,33.4642,"Scottsdale",9,0.75,2.25
+"861","XFqCZibLrpQTAUFT2XaCag","Rum Runner's",-112.065,33.5596,"Phoenix",6,6,4.5
+"862","vC7pDSKXsRxgov6W6RQpow","The Watering Hole",-111.893,33.3201,"Chandler",12,2,4.33333333333333
+"863","3YNAk-mrzCpcRMVwCPhYtQ","Nara Hookah Lounge",-111.964,33.3497,"Tempe",19,4.14285714285714,4.28571428571429
+"864","NIuaxYvM_-dzmgGXwPJ1Gw","World of Beer",-111.94,33.4245,"Tempe",158,3,3.109375
+"865","G1LaLNJObuAwZGAcJ7OY0Q","The Beach Pit",-111.94,33.4259,"Tempe",18,2,2.33333333333333
+"866","U97cOaXPSOGmVhKEomPjlg","Davanti Enoteca",-111.926,33.531,"Scottsdale",80,8.58823529411765,4.20588235294118
+"867","qbEJeRvytnBo5BGG1R5kGg","Daily Dose Midtown",-112.04,33.5058,"Phoenix",163,4.14492753623188,3.59420289855072
+"868","41j3GB7M-Lwq284Pfb9zgw","Angels Trumpet Ale House",-112.072,33.4571,"Phoenix",466,5.19148936170213,3.90425531914894
+"869","WRjMDL79KQ0ZG5yCdfJiYA","Buffalo Wild Wings",-112.118,33.5803,"Phoenix",62,1.625,2.41666666666667
+"870","TW7MgAF85QkBGjmMIfvcvA","Pub Rock Live",-111.909,33.4585,"Scottsdale",26,2.9,3.4
+"871","_Ne4sL68IW6lEXYvrnkt-w","The Handlebar Tempe",-111.94,33.4239,"Tempe",179,4.41891891891892,3.36486486486486
+"872","JBNLnJyrJkhWfFNb3bNr0A","Bourbon Jacks",-111.842,33.3021,"Chandler",72,4.87096774193548,3.64516129032258
+"873","E0qnH8iICrj6C4ERcT4cJw","Firehouse Tempe",-111.94,33.422,"Tempe",44,4.10526315789474,3.36842105263158
+"874","VSSO193ph86tmxDVaSDb3A","Hooters",-111.889,33.5382,"Scottsdale",40,3.73684210526316,3.47368421052632
+"875","PG0itWTUdxdy39P9CTgAzg","TC's Pub and Grub",-111.686,33.2851,"Queen Creek",44,3.88888888888889,3.66666666666667
+"876","83da7v9gQsWJegTW52qnuw","Gypsy Bar",-112.074,33.4475,"Phoenix",53,3.52380952380952,3.52380952380952
+"877","y_xP7ZarLKuefaH26Q4zNA","Gus's New York Pizza & Bar Mesa",-111.683,33.4522,"Mesa",27,1.92857142857143,2.71428571428571
+"878","yv8qiwqR4Y0a8qiHeGOefA","Rooftop Lounge and Patio",-111.94,33.4253,"Tempe",17,-0.875,2.625
+"879","i6b8U1rKrH_3DE_AoODoeA","The Wickenburg Feed Company Steakhouse and Grill",-112.73,33.9688,"Wickenburg",17,2.83333333333333,3.33333333333333
+"880","LYcHGQQHep1COP4Qg433SQ","Bar Louie",-111.904,33.433,"Tempe",144,3.89830508474576,2.84745762711864
+"881","dnon3NUcDwoJOCzIe44Xuw","Purple Turtle Sports Bar & Grill",-112.169,33.4951,"Phoenix",5,-2,1.5
+"882","I4vC08JXAFjXszUZAszh2Q","Native Grill & Wings",-112.216,33.6384,"Glendale",48,1.90909090909091,2.5
+"883","N-hmuPPHrTxDA_pQXgt9zQ","O Bar & Grill",-112.021,33.4962,"Phoenix",13,1,2
+"884","yggyuN3FV_NiQCKfvN-b-Q","Queen Creek Olive Mill Trattoria",-112.028,33.5104,"Phoenix",22,6.1,3.8
+"885","yBv1gcLXabzlGvZNs2sxug","Jaxon's Bar & Grill",-111.926,33.4523,"Scottsdale",6,2,2.5
+"886","Yi2_WbqDjeUrZn7WhdFA8w","Voila French Bistro and Wine Bar",-111.862,33.5747,"Scottsdale",50,6.47826086956522,4.34782608695652
+"887","HV-0vQADkXSKqFCz9HH7vQ","Luxe Lounge",-112.048,33.0242,"Maricopa",14,0.666666666666667,2.16666666666667
+"888","swuZvAsztWfd1W4aZIwG1A","UltraStar Multi-tainment Center at Ak-Chin Circle",-112.051,33.024,"Maricopa",40,4.11764705882353,3.94117647058824
+"889","D0WE1MX08WW-kXifDGifkA","NOSH Arizona",-111.912,33.3224,"Chandler",83,8.94285714285714,4.05714285714286

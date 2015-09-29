@@ -1,0 +1,442 @@
+library(plyr)
+library(stringr)
+pos = readLines("~/Desktop/Big Data/opnionWords/positive-words.txt")
+neg = readLines("~/Desktop/Big Data/opnionWords/negative-words.txt")
+sentiment.score<-function(sentences, pos.words, neg.words, .progress='none')
+{
+# Parameters
+# sentences: vector of text to score
+# pos.words: vector of words of postive sentiment
+# neg.words: vector of words of negative sentiment
+# .progress: passed to laply() to control of progress bar
+# create simple array of scores with laply
+scores = laply(sentences,
+function(sentence, pos.words, neg.words)
+{
+# remove punctuation
+sentence = gsub("[[:punct:]]", "", sentence)
+# remove control characters
+sentence = gsub("[[:cntrl:]]", "", sentence)
+# remove digits?
+sentence = gsub('\\d+', '', sentence)
+# define error handling function when trying tolower
+tryTolower = function(x)
+{
+# create missing value
+y = NA
+# tryCatch error
+try_error = tryCatch(tolower(x), error=function(e) e)
+# if not an error
+if (!inherits(try_error, "error"))
+y = tolower(x)
+# result
+return(y)
+}
+# use tryTolower with sapply
+sentence = sapply(sentence, tryTolower)
+# split sentence into words with str_split (stringr package)
+word.list = str_split(sentence, "\\s+")
+words = unlist(word.list)
+# compare words to the dictionaries of positive & negative terms
+pos.matches = match(words, pos.words)
+neg.matches = match(words, neg.words)
+# get the position of the matched term or NA
+# we just want a TRUE/FALSE
+pos.matches = !is.na(pos.matches)
+neg.matches = !is.na(neg.matches)
+# final score
+score = sum(pos.matches) - sum(neg.matches)
+return(score)
+}, pos.words, neg.words, .progress=.progress )
+# data frame with scores for each sentence
+scores.df = data.frame(text=sentences, score=scores)
+return(scores.df)
+}
+sen<-"dr. goldberg offers everything i look for in a general practitioner.  he's nice and easy to talk to without being patronizing; he's always on time in seeing his patients; he's affiliated with a top-notch hospital (nyu) which my parents have explained to me is very important in case something happens and you need surgery; and you can get referrals to see specialists without having to see him first.  really, what more do you need?  i'm sitting here trying to think of any complaints i have about him, but i'm really drawing a blank."
+sen[2]<-"The juices were bad, they were tasteless at all"
+sen[2]<-"The juices were bad, they were tasteless at all"
+score.sentiment(sen,pos,neg)
+sentiment.score(sen,pos,neg)
+help("RMysql")
+install.packages("RMySQL")
+help("RMysql")
+help(RMysql)
+help(RMySQL)
+library(RMySQL)
+help("RMySQL-package")
+help("RMySQL")
+con <- dbConnect(RMySQL::MySQL(), dbname = "yelp")
+mydb = dbConnect(MySQL(), user='sqluser', password='sqluserpw', dbname='yelp', host='localhost');
+rs <- dbSendQuery(con, "SELECT * FROM state")
+rs <- dbSendQuery(mydb, "SELECT * FROM state")
+print(rs)
+print_r(rs)
+print.listof(rs)
+d1 <- dbFetch(rs, n = 1000)
+print(d1)
+rs <- dbSendQuery(mydb, "SELECT * FROM business_main")
+d1 <- dbFetch(rs, n = 100000)
+reviews <- dbSendQuery(mydb, "SELECT * FROM reviews_id")
+mydb = dbConnect(MySQL(), user='sqluser', password='sqluserpw', dbname='yelp', host='localhost');
+rs <- dbSendQuery(mydb, "SELECT * FROM review_id")
+rs <- dbSendQuery(mydb, "SELECT * FROM review")
+dReviews<-dbFetch(rs, n=100000)
+dReviews<-dbFetch(rs, n=10000)
+dReviews<-dbFetch(rs, n=10)
+View(d1)
+View(dReviews)
+View(d1)
+con<-dbConnect(RMySQL::MySQL(), user="sqluser", password="sqluserpw", dbname = "yelp")
+rs1<-dbSendQuery(con, "Select * from review")
+dbR<-dbFetch(rs1,n=10000)
+dbR<-dbFetch(rs1,n=10000)
+dbR<-dbFetch(rs1,n=100000)
+library(leaflet)
+install.packages("leaflet")
+library(leaflet)
+load('geo495.RData')
+m <- leaflet()
+m <- addTiles(m)
+m <- addMarkers(m, lng=174.768, lat=-36.852, popup="The birthplace of R")
+m
+rs1<-dbSendQuery(con, "Select * from business_category")
+mydb = dbConnect(MySQL(), user='root', password='', dbname='yelp', host='localhost');
+rwb = dbSendQuery(mydb, "select * from business_category");
+rwb = fetch(rw, n= 500000);
+dwb = fetch(rwb, n= 500000);
+dwb = fetch(rwb, n= 100000);
+dwb = fetch(rwb, n= 10000);
+View(d1)
+d2<-dbFetch(rwb, n=-1)
+load("~/Desktop/Big Data/opnionWords/.RData")
+View(dReviews)
+View(dReviews)
+mydb<-con <- dbConnect(RMySQL::MySQL(), dbname = "yelp", user="sqluser" password="sqluserpw")
+mydb<-con <- dbConnect(RMySQL::MySQL(), dbname = "yelp", user="sqluser", password="sqluserpw")
+;
+rs <- dbSendQuery(mydb, "select * from business_category")
+dw2<-dbFetch(rs, n=-1)
+rs <- dbSendQuery(mydb, "select * from business_category where category="Bars"")
+rs <- dbSendQuery(mydb, "select * from business_category where category='Bars'")
+bars<-dbFetch(rs,n=-1)
+rs <- dbSendQuery(mydb, "SELECT * from business_main, business_category INTO newT  WHERE business_main.business_id = business_category.business_id AND business_category.category = 'Bars'; ")
+rs <- dbSendQuery(mydb, "SELECT * from business_main, business_category WHERE business_main.business_id = business_category.business_id AND business_category.category = 'Bars'; ")
+bars<-dbFetch(rs, n=-1)
+View(bars)
+bID <-bars$[business_id]
+bID <-bars$business_id
+rs <- dbSendQuery(mydb, "SELECT city, review_count, name, longitude, latitude, review.business_id, stars, text, date FROM bars, review where bars.business_id = review.business_id AND bars.state ='AZ';")
+reviewData=dbFetch(rs, n=-1)
+View(bars)
+View(reviewData)
+reviewData["reviewScore"]<-NA
+for(i in 1:length(reviewData$text)) {
+reviewData$reviewScore[i]<- sentiment.score(reviewData$text[i],pos,neg);
+}
+library(plyr)
+library(stringr)
+for(i in 1:length(reviewData$text)) {
+reviewData$reviewScore[i]<- sentiment.score(reviewData$text[i],pos,neg);
+}
+View(reviewData)
+warning()
+warning(12)
+warning()
+sentiment.score(reviewData$text[100],pos,neg);
+reviewData$reviewScore[100]
+reviewData$reviewScore[100[1]]
+reviewData$reviewScore[100[2]]
+reviewData$reviewScore[100[1]]
+View(sentiment.score)
+myfunction<-function(sentence, pos.words, neg.words)
+{
+# remove punctuation
+sentence = gsub("[[:punct:]]", "", sentence)
+# remove control characters
+sentence = gsub("[[:cntrl:]]", "", sentence)
+# remove digits?
+sentence = gsub('\\d+', '', sentence)
+# define error handling function when trying tolower
+tryTolower = function(x)
+{
+# create missing value
+y = NA
+# tryCatch error
+try_error = tryCatch(tolower(x), error=function(e) e)
+# if not an error
+if (!inherits(try_error, "error"))
+y = tolower(x)
+# result
+return(y)
+}
+# use tryTolower with sapply
+sentence = sapply(sentence, tryTolower)
+# split sentence into words with str_split (stringr package)
+word.list = str_split(sentence, "\\s+")
+words = unlist(word.list)
+# compare words to the dictionaries of positive & negative terms
+pos.matches = match(words, pos.words)
+neg.matches = match(words, neg.words)
+# get the position of the matched term or NA
+# we just want a TRUE/FALSE
+pos.matches = !is.na(pos.matches)
+neg.matches = !is.na(neg.matches)
+# final score
+score = sum(pos.matches) - sum(neg.matches)
+return(score)
+}
+myfunction(reviewData$text[100],pos,neg)
+reviewData$reviewScore<-NA
+View(reviewData)
+for(i in 1:length(reviewData$text)) {
+reviewData$reviewScore[i]<- myfunction(reviewData$text[i],pos,neg);
+}
+View(reviewData)
+max(reviewData$reviewScore)
+min(reviewData$reviewScore)
+max(length(reviewData$text))
+max((reviewData$text))
+length(max((reviewData$text)))
+for(i in 1:length(reviewData$text)) {
+len = length(reviewData$text[i])
+if(max>len)
+max = length(reviewData$text)
+}
+max =0
+for(i in 1:length(reviewData$text)) {
+len = length(reviewData$text[i])
+if(max>len)
+max = length(reviewData$text)
+}
+for(i in 1:length(reviewData$text)) {
+len = length(reviewData$text[i])
+if(max<len)
+max = len
+}
+max
+length(reviewData$text[100])
+max(nchar(reviewData$text))
+nchar(reviewData$text)
+nchar(reviewData$text[100])
+for(i in 1:length(reviewData$text)) {
+len = nchar(reviewData$text[i])
+if(max<len)
+max = len
+}
+for(i in 1:length(reviewData$text)) {
+len = nchar(reviewData$text[i])
+if(ma<len)
+ma= len
+}
+ma =0
+for(i in 1:length(reviewData$text)) {
+len = nchar(reviewData$text[i])
+if(ma<len)
+ma= len
+}
+for(i in 1:length(reviewData$text)) {
+len = nchar(reviewData$text[i])
+if(ma<len)
+ma= len
+}
+for(i in 1:10){"hi"}
+for(i in 1:length(reviewData$text)){
+len = nchar(reviewData$text[i])
+}
+for(i in 1:length(reviewData$text)){
+len <-nchar(reviewData$text[i])
+}
+for(i in 1:length(reviewData$text)){
+len <-nchar(reviewData$text[100 +i])
+}
+nchar(reviewData$text[1:10])
+max(nchar(reviewData$text[1:54584]))
+max(nchar(reviewData$text[1:50]))
+max(nchar(reviewData$text[1:2000]))
+max(nchar(reviewData$text[1:2500]))
+max(nchar(reviewData$text[1:500]))
+max(nchar(reviewData$text[1:100]))
+library(maps)
+library(maps)
+mapStates = map("state", fill = FALSE, plot = FALSE)
+mapStates
+leaflet(data = mapStates)
+library(leaflet)
+leaflet(data = mapStates)
+addTiles()
+leaflet(data = mapStates) %>% addTiles() %>%
+addPolygons(fillColor = topo.colors(10, alpha = NULL), stroke = FALSE)
+library(maps)
+mapStates = map("state", fill = TRUE, plot = FALSE)
+leaflet(data = mapStates) %>% addTiles() %>%
+addPolygons(fillColor = topo.colors(10, alpha = NULL), stroke = FALSE)
+m %>% addProviderTiles("CartoDB.Positron")
+leaflet() %>% addTiles() %>% setView(-93.65, 42.0285, zoom = 4) %>%
+addWMSTiles(
+"http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi",
+layers = "nexrad-n0r-900913",
+options = WMSTileOptions(format = "image/png", transparent = TRUE),
+attribution = "Weather data © 2012 IEM Nexrad"
+)
+leaflet() %>% addTiles() %>% setView(-93.65, 42.0285, zoom = 4) %>%
+addWMSTiles(
+"http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi",
+layers = "nexrad-n0r-900913",
+options = WMSTileOptions(format = "image/png", transparent = TRUE),
+attribution = ""
+)
+View(dw2)
+View(dbR)
+View(bars)
+View(reviewData)
+nchar(reviewData$text[21]
+)
+1179/5000
+reviewData$reviewScore[21]=1179/5000*reviewData$reviewScore[21]
+View(reviewData)
+nchar(reviewData$text[24])/5000*reviewData$reviewScore[24]
+nchar(reviewData$text[32])/5000*reviewData$reviewScore[32]
+myfunction
+myfunction<-function(sentence, pos.words, neg.words)
+{
+# remove punctuation
+sentence = gsub("[[:punct:]]", "", sentence)
+# remove control characters
+sentence = gsub("[[:cntrl:]]", "", sentence)
+# remove digits?
+sentence = gsub('\\d+', '', sentence)
+# define error handling function when trying tolower
+tryTolower = function(x)
+{
+# create missing value
+y = NA
+# tryCatch error
+try_error = tryCatch(tolower(x), error=function(e) e)
+# if not an error
+if (!inherits(try_error, "error"))
+y = tolower(x)
+# result
+return(y)
+}
+# use tryTolower with sapply
+sentence = sapply(sentence, tryTolower)
+# split sentence into words with str_split (stringr package)
+word.list = str_split(sentence, "\\s+")
+words = unlist(word.list)
+# compare words to the dictionaries of positive & negative terms
+pos.matches = match(words, pos.words)
+neg.matches = match(words, neg.words)
+# get the position of the matched term or NA
+# we just want a TRUE/FALSE
+pos.matches = !is.na(pos.matches)
+neg.matches = !is.na(neg.matches)
+# final score
+score = sum(pos.matches)
+return(score)
+}
+for(i in 1:length(reviewData$text)) {
+reviewData$reviewScore[i]<- myfunction(reviewData$text[i],pos,neg);
+}
+View(reviewData)
+nchar(reviewData$text[32])/5000*reviewData$reviewScore[32] + reviewData$reviewScore[32]
+myfunction
+function(sentence, pos.words, neg.words)
+{
+# remove punctuation
+sentence = gsub("[[:punct:]]", "", sentence)
+# remove control characters
+sentence = gsub("[[:cntrl:]]", "", sentence)
+# remove digits?
+sentence = gsub('\\d+', '', sentence)
+# define error handling function when trying tolower
+tryTolower = function(x)
+{
+# create missing value
+y = NA
+# tryCatch error
+try_error = tryCatch(tolower(x), error=function(e) e)
+# if not an error
+if (!inherits(try_error, "error"))
+y = tolower(x)
+# result
+return(y)
+}
+# use tryTolower with sapply
+sentence = sapply(sentence, tryTolower)
+# split sentence into words with str_split (stringr package)
+word.list = str_split(sentence, "\\s+")
+words = unlist(word.list)
+# compare words to the dictionaries of positive & negative terms
+pos.matches = match(words, pos.words)
+neg.matches = match(words, neg.words)
+# get the position of the matched term or NA
+# we just want a TRUE/FALSE
+pos.matches = !is.na(pos.matches)
+neg.matches = !is.na(neg.matches)
+# final score
+score = sum(pos.matches) - sum(neg.matches)
+return(score)
+}
+for(i in 1:length(reviewData$text)) {
+reviewData$reviewScore[i]<- myfunction(reviewData$text[i],pos,neg);
+}
+View(reviewData)
+View(sentiment.score)
+myfunction<-function(sentence, pos.words, neg.words)
+{
+# remove punctuation
+sentence = gsub("[[:punct:]]", "", sentence)
+# remove control characters
+sentence = gsub("[[:cntrl:]]", "", sentence)
+# remove digits?
+sentence = gsub('\\d+', '', sentence)
+# define error handling function when trying tolower
+tryTolower = function(x)
+{
+# create missing value
+y = NA
+# tryCatch error
+try_error = tryCatch(tolower(x), error=function(e) e)
+# if not an error
+if (!inherits(try_error, "error"))
+y = tolower(x)
+# result
+return(y)
+}
+# use tryTolower with sapply
+sentence = sapply(sentence, tryTolower)
+# split sentence into words with str_split (stringr package)
+word.list = str_split(sentence, "\\s+")
+words = unlist(word.list)
+# compare words to the dictionaries of positive & negative terms
+pos.matches = match(words, pos.words)
+neg.matches = match(words, neg.words)
+# get the position of the matched term or NA
+# we just want a TRUE/FALSE
+pos.matches = !is.na(pos.matches)
+neg.matches = !is.na(neg.matches)
+# final score
+score = sum(pos.matches) - sum(neg.matches)
+return(score)
+}
+for(i in 1:length(reviewData$text)) {
+reviewData$reviewScore[i]<- myfunction(reviewData$text[i],pos,neg);
+}
+View(dw2)
+View(dw2)
+View(sentiment.score)
+myresult <- ddply(reviewData, .(business_id),transform, averageRating = mean(stars), averageSentimentScore = mean(reviewScore))
+View(dwb)
+rattle()
+library("rattle")
+rattle()
+View(myresult)
+myResults <- ddply(reviewData, ('business_id','name', 'longitude','latitude'), transform, averageSentimentScore = mean(reviewScore))
+library("plyr")
+library("dplyr")
+myResults <- ddply(reviewData,
+.(business_id,name,longitude,latitude,city, review_count),
+summarize,
+averageSentimentScore = mean(reviewScore), averageRating=mean(stars)
+)
+savehistory("~/Desktop/Big Data/opnionWords/log R and Rattle.Rhistory")

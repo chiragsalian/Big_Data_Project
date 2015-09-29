@@ -1,0 +1,96 @@
+CREATE TABLE state(
+ID CHAR(2),
+NAME VARCHAR(40),
+PRIMARY KEY(ID)
+);
+
+CREATE TABLE business_main(
+business_id VARCHAR(22) NOT NULL,
+fulladdress VARCHAR(200) ,
+city VARCHAR(50) NOT NULL,
+review_count INT,
+state VARCHAR(15),
+name VARCHAR(100),
+longitude FLOAT,
+latitude FLOAT,
+stars INT,
+PRIMARY KEY(business_id),
+FOREIGN KEY(state) REFERENCES state(id)
+ON DELETE CASCADE
+);
+
+
+CREATE TABLE business_hours(
+business_id VARCHAR(22),
+monday_open_time TIME,
+monday_close_time TIME,
+tuesday_open_time TIME,
+tuesday_close_time TIME,
+wednesday_open_time TIME,
+wednesday_close_time TIME,
+thursday_open_time TIME,
+thursday_close_time TIME,
+friday_open_time TIME,
+friday_close_time TIME,
+saturday_open_time TIME,
+saturday_close_time TIME,
+sunday_open_time TIME,
+sunday_close_time TIME,
+INDEX(business_id),
+FOREIGN KEY(business_id) REFERENCES business_main(business_id)
+ON DELETE CASCADE
+);
+
+CREATE TABLE categories(
+category VARCHAR(50),
+PRIMARY KEY(category)
+);
+
+CREATE TABLE business_category(
+business_id VARCHAR(22),
+category VARCHAR(50),
+FOREIGN KEY(business_id) REFERENCES business_main(business_id) ON DELETE CASCADE,
+FOREIGN KEY(category) REFERENCES categories(category) ON DELETE CASCADE
+);
+
+CREATE TABLE user_main(
+user_id VARCHAR(22) NOT NULL,
+review_count INT,
+name VARCHAR(100),
+avg_stars FLOAT,
+fans INT,
+votes_funny INT,
+votes_cool INT,
+votes_useful INT,
+PRIMARY KEY(user_id)
+);
+
+CREATE TABLE user_detail(
+user_id VARCHAR(22),
+profile INT,
+cute INT,
+funny INT,
+plain INT,
+writer INT,
+note INT,
+photo INT,
+hot INT,
+cool INT,
+more INT,
+FOREIGN KEY(user_id) REFERENCES user_main(user_id) ON DELETE CASCADE
+);
+
+CREATE TABLE review(
+review_id VARCHAR(22),
+business_id VARCHAR(22),
+user_id VARCHAR(22),
+stars INT,
+text VARCHAR(1000),
+votes_funny INT,
+votes_useful INT,
+votes_cool INT,
+date DATE,
+PRIMARY KEY(review_id),
+FOREIGN KEY(business_id) REFERENCES business_main(business_id) ON DELETE CASCADE,
+FOREIGN KEY(user_id) REFERENCES user_main(user_id) ON DELETE CASCADE
+);
